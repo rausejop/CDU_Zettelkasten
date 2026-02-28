@@ -1,35 +1,51 @@
-# Zettelkasten CDU
+# 🏛️ Universal Decimal Classification (UDC) Zettelkasten v5.0
 
-Welcome to the Universal Decimal Classification Zettelkasten system.
+![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+![Status](https://img.shields.io/badge/Status-Bilingual--Optimized-green)
 
-## UDC Domains Overview
+Dual-language knowledge repository organized by UDC.
 
-```mermaid
-graph TD
-    ROOT["CDU Zettelkasten"] --> N0["0 SCIENCE AND KNOWLEDGE. ORGANIZ"]
-    ROOT["CDU Zettelkasten"] --> N1["1 PHILOSOPHY. PSYCHOLOGY"]
-    ROOT["CDU Zettelkasten"] --> N2["2 RELIGION. THEOLOGY"]
-    ROOT["CDU Zettelkasten"] --> N3["3 SOCIAL SCIENCES"]
-    ROOT["CDU Zettelkasten"] --> N5["5 MATHEMATICS. NATURAL SCIENCES"]
-    ROOT["CDU Zettelkasten"] --> N6["6 APPLIED SCIENCES. MEDICINE. TE"]
-    ROOT["CDU Zettelkasten"] --> N7["7 THE ARTS. RECREATION. ENTERTAI"]
-    ROOT["CDU Zettelkasten"] --> N8["8 LANGUAGE. LINGUISTICS. LITERAT"]
-    ROOT["CDU Zettelkasten"] --> N9["9 GEOGRAPHY. BIOGRAPHY. HISTORY"]
-```
+## 🌍 Language Portals / Portales de Idioma
 
-## Primary Branches
+### 🇺🇸 [English Version (EN)](EN/)
+| Icon | Code | Title | Link |
+|:---:|:---:|:---|:---:|
+| 🔬 | `0` | Science and Knowledge / Computer Science | [Open Branch](EN/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR.md) |
+| 🧠 | `1` | Philosophy and Psychology | [Open Branch](EN/1_PHILOSOPHY_PSYCHOLOGY/1_PHILOSOPHY_PSYCHOLOGY.md) |
+| ⛪ | `2` | Religion and Theology | [Open Branch](EN/2_RELIGION_THEOLOGY/2_RELIGION_THEOLOGY.md) |
+| ⚖️ | `3` | Social Sciences | [Open Branch](EN/3_SOCIAL_SCIENCES/3_SOCIAL_SCIENCES.md) |
+| 📐 | `5` | Mathematics and Natural Sciences | [Open Branch](EN/5_MATHEMATICS_NATURAL_SCIENCES/5_MATHEMATICS_NATURAL_SCIENCES.md) |
+| ⚙️ | `6` | Applied Sciences / Medicine | [Open Branch](EN/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY.md) |
+| 🎨 | `7` | The Arts / Recreation | [Open Branch](EN/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT.md) |
+| 📚 | `8` | Language and Literature | [Open Branch](EN/8_LANGUAGE_LINGUISTICS_LITERATURE/8_LANGUAGE_LINGUISTICS_LITERATURE.md) |
+| 🌍 | `9` | Geography and History | [Open Branch](EN/9_GEOGRAPHY_BIOGRAPHY_HISTORY/9_GEOGRAPHY_BIOGRAPHY_HISTORY.md) |
 
-| Icon | Code | Title |
-|---|---|---|
-| 🔬 | 0 | [SCIENCE AND KNOWLEDGE. ORGANIZATION. COMPUTER SCIENCE. INFORMATION. DOCUMENTATION. LIBRARIANSHIP. INSTITUTIONS. PUBLICATIONS](0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR.md) |
-| 🧠 | 1 | [PHILOSOPHY. PSYCHOLOGY](1_PHILOSOPHY_PSYCHOLOGY/1_PHILOSOPHY_PSYCHOLOGY.md) |
-| ⛪ | 2 | [RELIGION. THEOLOGY](2_RELIGION_THEOLOGY/2_RELIGION_THEOLOGY.md) |
-| ⚖️ | 3 | [SOCIAL SCIENCES](3_SOCIAL_SCIENCES/3_SOCIAL_SCIENCES.md) |
-| 📐 | 5 | [MATHEMATICS. NATURAL SCIENCES](5_MATHEMATICS_NATURAL_SCIENCES/5_MATHEMATICS_NATURAL_SCIENCES.md) |
-| ⚙️ | 6 | [APPLIED SCIENCES. MEDICINE. TECHNOLOGY](6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY.md) |
-| 🎨 | 7 | [THE ARTS. RECREATION. ENTERTAINMENT. SPORT](7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT.md) |
-| 📚 | 8 | [LANGUAGE. LINGUISTICS. LITERATURE](8_LANGUAGE_LINGUISTICS_LITERATURE/8_LANGUAGE_LINGUISTICS_LITERATURE.md) |
-| 🌍 | 9 | [GEOGRAPHY. BIOGRAPHY. HISTORY](9_GEOGRAPHY_BIOGRAPHY_HISTORY/9_GEOGRAPHY_BIOGRAPHY_HISTORY.md) |
+### 🇪🇸 [Versión Española (ES)](ES/)
+| Icon | Code | Title | Link |
+|:---:|:---:|:---|:---:|
+| 🔬 | `0` | Ciencia y Conocimiento / Informática | [Abrir Rama](ES/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR.md) |
+| 🧠 | `1` | Filosofía y Psicología | [Abrir Rama](ES/1_PHILOSOPHY_PSYCHOLOGY/1_PHILOSOPHY_PSYCHOLOGY.md) |
+| ⛪ | `2` | Religión y Teología | [Abrir Rama](ES/2_RELIGION_THEOLOGY/2_RELIGION_THEOLOGY.md) |
+| ⚖️ | `3` | Ciencias Sociales | [Abrir Rama](ES/3_SOCIAL_SCIENCES/3_SOCIAL_SCIENCES.md) |
+| 📐 | `5` | Matemáticas y Ciencias Naturales | [Abrir Rama](ES/5_MATHEMATICS_NATURAL_SCIENCES/5_MATHEMATICS_NATURAL_SCIENCES.md) |
+| ⚙️ | `6` | Ciencias Aplicadas / Medicina | [Abrir Rama](ES/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY.md) |
+| 🎨 | `7` | Bellas Artes / Recreación | [Abrir Rama](ES/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT.md) |
+| 📚 | `8` | Lengua y Literatura | [Abrir Rama](ES/8_LANGUAGE_LINGUISTICS_LITERATURE/8_LANGUAGE_LINGUISTICS_LITERATURE.md) |
+| 🌍 | `9` | Geografía e Historia | [Abrir Rama](ES/9_GEOGRAPHY_BIOGRAPHY_HISTORY/9_GEOGRAPHY_BIOGRAPHY_HISTORY.md) |
+
+## 📑 Project Plan & Progress
+- [x] Initial UDC Parsing and Hierarchy Building.
+- [x] Recursive Directory Density Optimization (<100 files).
+- [x] Bidirectional Lateral and Vertical Linking.
+- [x] Hybrid Aggregation for high-density nodes.
+- [x] **Premium UI**: Callouts, MOCs, and YAML Metadata.
+- [x] **v5.0**: Dual Language (EN/ES) concurrent generation.
+- [ ] Integration with External Knowledge APIs (Wikipedia/UDCC).
+- [ ] automated PDF export for offline study.
+
+## ⚖️ License
+Licensed under the **Apache License, Version 2.0** (the "License").
+You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
 ---
-Generated by Antigravity AI.
+*Generated by Antigravity AI | 2026*
