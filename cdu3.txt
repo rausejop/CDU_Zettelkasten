@@ -1,0 +1,207 @@
+3  SOCIAL SCIENCES
+303  Methods of the social sciences
+304  Social questions. Social practice. Cultural practice. Way of life (Lebensweise)
+305  Gender studies
+308  Sociography. Descriptive studies of society (both qualitative and quantitative)
+311  Statistics as a science. Statistical theory
+311.1  Fundamentals, bases of statistics
+311.2  Research technique. Preparation. Tabulation
+311.3  General organization of statistics. Official statistics
+311.4  Private statistics
+314/316  Society
+314  Demography. Population studies
+314.1  Population
+316  Sociology
+316.1  Object and scope of sociology
+316.2  Sociological points of view and trends
+316.3  Social structure. Society as a social system
+316.33  Basic elements and subsystems of global societies as sociological categories
+316.34  Social stratification. Social differentiation
+316.35  Social groups. Social organizations
+316.36  Marriage and family
+316.4  Social processes. Social dynamics
+316.6  Social psychology
+316.7  Sociology of culture. Cultural context of social life
+32  Politics
+321  Forms of political organization. States as political powers
+322  Relations between church and state. Policy towards religion. Church policy
+323  Home affairs. Internal policy
+323.1  Nationalist, popular, ethnic movements and problems. National and ethnic minorities
+323.2  Relation between people and state. Internal political activities
+323.4  Class war. Forms of class warfare
+324  Elections. Plebiscites. Referendums. Election campaigns. Electoral corruption, malpractice. Election results
+325  Opening up of territories. Colonization. Colonialism
+326  Slavery. Involuntary, unfree labour
+327  International relations. World, global politics. International affairs. Foreign policy
+327.2  Imperialism. Imperialistic policy. Political expansionism
+327.3  Internationalism. International movements, objectives
+327.5  International blocs. Tension, conflict
+327.7  Activity of international and intergovernmental organizations
+327.8  Political influence, pressure, on other states
+328  Parliaments. Representation of the people. Governments
+329  Political parties and movements
+33  Economics. Economic science
+330  Economics in general
+330.1  Science of economics. Basic economic concepts, theory. Value. Capital. Funds
+330.3  Dynamics of the economy. Economic movement
+330.4  Mathematical economics
+330.5  National property. National assets. Social product. Balance of the economy. Estimation of national product
+330.8  History of economic theories, doctrines, dogmas
+331  Labour. Employment. Work. Labour economics. Organization of labour
+331.1  Theory and organization of work. Relations between business firms and employees
+331.2  Salaries. Wages. Remuneration. Pay
+331.3  Working conditions other than pay
+331.4  Working environment. Workplace design. Occupational safety. Hygiene at work. Accidents at work
+331.5  Labour market. Employment
+332  Regional economics. Territorial economics. Land economics. Housing economics
+332.1  Regional economics. Territorial economics
+332.2  Land economics
+332.3  Land use
+332.5  Land requirement. Long-term planning of land use
+332.6  Land value. Value of plots, sites, holdings. Real-estate value. Productivity. Rents
+332.7  Trade in land, in real estate
+332.8  Economics of housing
+334  Forms of organization and cooperation in the economy
+336  Finance
+336.1  Public sector finance. Government finance in general
+336.2  Public revenue
+336.5  Public expenditure. State expenditure
+336.7  Money. Monetary system. Banking. Stock exchanges
+338  Economic situation. Economic policy. Management of the economy. Economic planning. Production. Services. Prices
+338.1  Economic situation. Trade cycle. Development of economic structure. Growth
+338.2  Economic policy. Control of the economy. Management of the economy. Economic planning
+338.3  Production
+338.4  Production and services according to economic sectors
+338.48  Tourism
+338.5  Prices. Price formation. Costs
+339  Trade. Commerce. International economic relations. World economy
+339.1  General questions of trade and commerce. Market
+339.3  Inland trade. Internal trade. Domestic trade
+339.5  Foreign trade. External trade. International trade
+339.7  International finance
+339.9  International economy generally. International economic relations. Global economy
+34  Law. Jurisprudence
+340  Law in general. Legal methods and auxiliary sciences
+340.1  Types and forms of law
+340.13  Positive law. Legal norm. Enacted law. Statute law. Ius scriptum. Operation of legal norm. Rules of its application
+340.14  Unwritten law. Non-statute law. Ius non scriptum. Other sources of law
+340.5  Comparative law
+340.6  Auxiliary legal sciences. Forensic psychology. Forensic chemistry. Forensic medicine
+341  International law
+341.1/.8  Public international law. Law of nations
+341.1  Law of international organizations
+341.2  Persons and things in international law
+341.3  Law of war. International legal relations in war
+341.4  International criminal law
+341.6  International arbitration. International adjudication, jurisdiction
+341.7  Diplomatic law. Laws of diplomacy
+341.8  Consular law
+341.9  International private law. Conflict of laws
+342  Public law. Constitutional law. Administrative law
+342.1  State. People. Nation. Power of the state
+342.2  State. Structure of states
+342.3  Supreme authority. Sovereignty. Forms of state. Forms of government
+342.4  Constitutions. Legislative assemblies. National assemblies
+342.5  Power of the state. System and function of organs of government
+342.6  Executive power of the state. Central organs of state government
+342.7  Fundamental rights. Human rights. Rights and duties of the citizen
+342.8  Electoral law. Voting. Electoral systems
+342.9  Administrative law
+343  Criminal law. Penal offences
+343.1  Criminal justice. Criminal investigation. Criminal proceedings
+343.2/.7  Criminal law
+343.2  Criminal law proper
+343.3/.7  Particular offences. Specific punishable acts
+343.3  Offences against the state
+343.4  Offences against fundamental liberties, human rights
+343.5  Offences against public credit, morality, the family
+343.6  Offences against the person
+343.8  Punishment. Execution of sentence. Crime prevention. Deterrence
+343.9  Criminology. Criminal sciences. Criminalistics
+344  Special criminal law. Military, naval, air force laws
+346  Economic law. Law of government control of the economy
+346.2  Subjects of economic law
+346.3  Economic liabilities. Economic contracts
+346.5  Regulation of economic order and control
+346.6  Regulation of prices, tariffs, finance, credits and accounts
+346.7  Regulation of individual sectors of the economy
+346.9  Enforcement of economic law. Sanctions. Supervision. Commercial disputes. Settlement. Legal protection
+347  Civil law
+347.1  Generalities of civil law
+347.2  Law of realty. Real rights. Things. Chattels
+347.3  Movables in general. Personalty
+347.4  Commitments. Contractual liabilities. Bonds. Contracts. Agreements
+347.5  Noncontractual liabilities. Torts
+347.6  Family law. Law of inheritance. Heirs. Successors
+347.7  Commercial law. Company law
+347.8  Laws of air, space, ether
+347.9  Legal procedure. Judiciary personnel and organization
+348  Ecclesiastical law. Canon law. Religious law (option)
+349  Special branches of law. Miscellaneous legal matters
+35  Public administration. Government. Military affairs
+351  Particular activities of public administration
+352/354  Levels of administration. Local, regional, central administration
+352  Lowest levels of administration. Local government. Municipal administration. Local authorities
+353  Middle levels of administration. Regional, provincial government. Regional authorities
+353.1  Primary divisions of a country. Regions (generally). States in a federation
+353.2  Provincial governments. Provinces. Departments. Counties
+353.5  Divisions of provinces. Subprefectures. Arrondissements. Kreise
+353.8  Special kinds of regional administration
+353.9  Independent administration of regions of a country. Ministries of regions
+354  High level, top level of administration. Central, national government
+354.1  Ministries for general business
+355/359  Military affairs. Art of war. Military science. Defence. Armed forces
+355  Military affairs generally
+355.1  Armed forces generally. Armed services. Military life
+355.2  Recruitment of forces. Requisition of supplies, resources. War potential. Levies
+355.3  General organization of the armed forces
+355.4  War operations in general. Tactics. Strategy. Theatre of war. History of campaigns
+355.5  Service in, tactics of, particular forces and units. Training of troops and officers. Tactical exercises
+355.6  Military administration
+355.7  Military establishments: organization, functions
+356/358  Individual branches of land and air forces
+356  Army service generally. Infantry. Foot soldiers
+357  Cavalry. Mounted troops. Motorized troops
+358  Artillery. Engineers. Aviation. Various technical units and their function
+358.1  Artillery
+358.4  Military aviation. Flying corps. Air force
+359  Naval forces. Military fleet. Navy: personnel, organization
+36  Safeguarding the mental and material necessities of life
+364  Social welfare
+364-1  Theories of social welfare
+364-2  Principles of assistance
+364-3  Social welfare agencies. Social welfare organizations
+364-4  People as providers of social welfare assistance
+364-5  Social welfare facilities
+364-6  Contributions and payments
+364-7  Social welfare operations. Welfare effort. Social services. Service provision
+364.2  Basic human needs. Requirements for well-being
+364.3  Social benefits. Social allowances. Social insurance. Social assistance
+364.4  Fields of practice in social work
+364.6  Social welfare issues
+365  Accommodation desires and their fulfilment. Safeguarding accommodation
+366  Consumerism
+368  Insurance. Communal provision through sharing of risk
+37  Education
+37.01/.09  Special auxiliary table for theory, principles, methods and organization of education
+37.01  Fundamentals of education. Theory, policy, etc.
+37.02  General questions of didactics and method
+37.04  Education in relation to the educand, pupil. Guidance
+37.06  Social problems. Human contacts, relationships
+37.07  Management aspects of educational institutions
+37.09  Organization of instruction
+373  Kinds of school providing general education
+374  Education and training out of school. Further education
+376  Education, teaching, training of special groups of persons. Special schools
+377  Specialized instruction. Vocational, technical, professional training. Vocational colleges, institutes. Polytechnics
+378  Higher education. Universities. Academic study
+379.8  Leisure
+39  Cultural anthropology. Ethnography. Customs. Manners. Traditions. Way of life
+391  Costume. Clothing. National dress. Fashion. Adornment
+392  Customs, manners, usage in private life
+393  Death. Treatment of corpses. Funerals. Death rites
+394  Public life. Pageantry. Social life. Life of the people
+395  Social ceremonial. Etiquette. Good manners. Social forms. Rank. Title
+398  Folklore in the strict sense
+ click on a class to the left to display records
+The UDC Summary (UDCS) provides a selection of a

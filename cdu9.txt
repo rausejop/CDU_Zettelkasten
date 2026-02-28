@@ -1,0 +1,36 @@
+9  GEOGRAPHY. BIOGRAPHY. HISTORY
+902/908  Archaeology. Prehistory. Cultural remains. Area studies
+902  Archaeology
+903  Prehistory. Prehistoric remains, artefacts, antiquities
+904  Cultural remains of historical times
+908  Area studies. Study of a locality
+91  Geography. Exploration of the Earth and of individual countries. Travel. Regional geography
+910  General questions. Geography as a science. Exploration. Travel
+910.1  Science of geography. Methodology (theory, systems, methods)
+910.2  Kinds and techniques of geographical exploration
+910.3  Exploration of particular geographical features
+910.4  Voyages of discovery
+911  General geography. Science of geographical factors (systematic geography). Theoretical geography
+911.2  Physical geography
+911.3  Human geography (cultural geography). Geography of cultural factors
+911.5/.9  Theoretical geography
+911.5  Typological geography
+911.6  Individual spatial divisions and regional units
+911.7  Comparative geography
+911.8  Normative geography
+911.9  Applied, practical geography
+912  Nonliterary, nontextual representations of a region
+913  Regional geography
+92  Biographical studies. Genealogy. Heraldry. Flags
+929  Biographical studies
+929.5  Genealogy
+929.6  Heraldry
+929.7  Nobility. Titles. Peerage
+929.9  Flags. Standards. Banners
+93/94  History
+930  Science of history. Historiography
+930.1  History as a science
+930.2  Methodology of history. Ancillary historical sciences
+930.25  Archivistics. Archives (including public and other records)
+930.85  History of civilization. Cultural history
+94  General history

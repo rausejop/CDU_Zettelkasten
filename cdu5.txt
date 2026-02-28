@@ -1,0 +1,483 @@
+5  MATHEMATICS. NATURAL SCIENCES
+502/504  Environmental science. Conservation of natural resources. Threats to the environment and protection against them
+502  The environment and its protection
+502.3/.7  Parts of the environment
+504  Threats to the environment
+51  Mathematics
+510  Fundamental and general considerations of mathematics
+510.2  General problems of mathematical logic. Foundations of mathematics
+510.3  Set theory
+510.6  Mathematical logic
+511  Number theory
+512  Algebra
+514  Geometry
+514.7  Differential geometry. Algebraic and analytic methods in geometry
+515.1  Topology
+517  Analysis
+517.9  Differential equations. Integral equations. Other functional equations. Finite differences. Calculus of variations. Functional analysis
+519.1  Combinatorial analysis. Graph theory
+519.2  Probability. Mathematical statistics
+519.6  Computational mathematics. Numerical analysis
+519.7  Mathematical cybernetics
+519.8  Operational research (OR): mathematical theories and methods
+519.83  Game theory
+519.85  Mathematical programming
+52  Astronomy. Astrophysics. Space research. Geodesy
+520  Astronomical instruments and techniques
+521  Theoretical astronomy. Celestial mechanics
+521.9  Astrometry. Spherical astronomy
+523  The Solar System
+523.3  Earth-Moon system
+523.4  Planets and their satellites. Planetology
+523.6  Interplanetary medium. Comets. Meteors. Meteorites
+523.9  The Sun. Solar physics
+524  Stars. Stellar systems. The Universe
+524.1  Cosmic rays. Primary cosmic rays
+524.3  Stars
+524.4  Star clusters. Associations of stars
+524.5  Interstellar medium. Galactic nebulae
+524.6  The Galaxy (Milky Way)
+524.7  Extragalactic systems
+524.8  The Universe. Metagalaxy. Cosmology
+528  Geodesy. Surveying. Photogrammetry. Remote sensing. Cartography
+528.1  Theory of errors and adjustment in geodesy and photogrammetry
+528.2  Figure of the Earth. Earth measurement. Mathematical geodesy. Physical geodesy. Astronomical geodesy
+528.3  Geodetic surveying
+528.4  Field surveying. Land surveying. Cadastral survey. Topography. Engineering survey. Special fields of surveying
+528.5  Geodetic instruments and equipment
+528.7  Photogrammetry: aerial, terrestrial
+528.8  Remote sensing
+528.9  Cartography. Mapping (textual documents)
+53  Physics
+53.01/.09  Special auxiliary subdivision for physics
+53.01  Theory and nature of phenomena
+53.02  General laws of phenomena
+53.03  Production and causes of phenomena
+53.04  Effects of phenomena
+53.05  Observation and recording of phenomena. Visual indication of phenomena
+53.06  Application, utilization of phenomena
+53.07  Apparatus for production and study of phenomena
+53.08  General principles and theory of measurement and the design of measuring apparatus. Measurement methods
+53.09  Dependence of phenomena on certain fundamental physical effects
+531/534  Mechanics
+531  General mechanics. Mechanics of solid and rigid bodies
+531-1/-9  Special auxiliary subdivision for mechanics
+531-1  One-dimensional. Lines
+531-2  Two-dimensional. Planes. Surfaces
+531-3  Three-dimensional. Bodies. Spaces
+531-4  Hyperspace (space of more than three dimensions)
+531-9  Non-Euclidean spaces
+531.1  Kinematics. Mathematical-mechanical geometry of motion
+531.2  Statics. Forces. Equilibrium. Attraction
+531.3  Dynamics. Kinetics
+531.4  Work. Weight. Mass. Friction. Passive resistance
+531.5  Gravity. Gravitation. Pendulums. Ballistics
+531.6  Mechanical energy. Conservation of mechanical energy
+531.7  Measurement of geometric and mechanical quantities: instruments, methods and units
+531.8  Theory of machines. Technical mechanics in general
+532  Fluid mechanics in general. Mechanics of liquids (hydromechanics)
+532.1  Hydrostatics in general
+532.2  Equilibrium of liquids
+532.3  Immersed bodies (submerged bodies). Floating bodies
+532.5  Liquid motion. Hydrodynamics
+532.6  Surface phenomena. Surface tension. Capillarity
+532.7  Kinetic theory of liquids. Osmosis. Solution and solutions
+533  Mechanics of gases. Aeromechanics. Plasma physics
+533.1  Properties of gases
+533.2  Elasticity. Compressibility. Liquefaction. Gas mixing. Gaseous mixtures
+533.5  Rarefied gases. Vacuum physics
+533.6  Aerodynamics
+533.7  Kinetic theory of gases. Continuity of state
+533.9  Plasma physics
+534  Vibrations. Waves. Acoustics
+534.1  Vibration of bodies. Excitation of vibrations. Vibratory formations with distributed mass and elasticity
+534.2  Propagation of vibrations. Processes in the acoustic field
+534.3  Musical sounds and perception
+534.4  Analysis and synthesis of sounds
+534.5  Composition of vibrations
+534.6  Acoustic measurements
+534.7  Physiological acoustics. Medical acoustics
+534.8  Applications of acoustics (theory)
+535  Optics
+535-1/-9  Special auxiliary subdivision for optics
+535-1/-3  Radiation according to wavelength. Hertzian waves. Light colours
+535-1  Long waves. Infrared
+535-2  Visible light. Colours
+535-3  Short waves
+535-4  Polarized light
+535-5  Natural light
+535-6  Partially polarized light
+535-7  Totally reflected light
+535.1  Theory of light
+535.2  Propagation and energetics of radiation. Photometry
+535.3  Propagation. Reflection. Refraction. Absorption. Emission
+535.4  Interference. Diffraction. Scattering by diffraction
+535.5  Polarization. Double refraction. Dispersion in anisotropic bodies
+535.6  Colours and their properties. Colour theory
+535.8  Applications of optics in general
+536  Heat. Thermodynamics. Statistical physics
+536.1  General theory of heat
+536.2  Heat conduction. Heat transfer
+536.3  Effect of bodies on heat radiation
+536.4  Effect of heat input and temperature on volume and structure of bodies
+536.5  Temperature. Temperature scales. Temperature measurement. Thermometers. Temperature control
+536.6  Measurement of heat quantity. Calorimetry
+536.7  Thermodynamics. Energetics
+537  Electricity. Magnetism. Electromagnetism
+537.2  Static electricity. Electrostatics
+537.3  Current electricity. Electric current. Electrokinetics
+537.5  Electron and ion phenomena
+537.6/.8  Magnetism. Electromagnetism
+537.6  Magnetism
+537.8  Electromagnetism. Electromagnetic field. Electrodynamics
+538.9  Condensed matter physics. Solid state physics
+539  Physical nature of matter
+539.1  Nuclear physics. Atomic physics. Molecular physics
+539.2  Properties and structure of molecular systems
+539.3  Elasticity. Deformation. Mechanics of elastic solids
+539.4  Strength. Resistance to stress
+539.5  Properties of materials affecting deformability
+539.6  Intermolecular forces
+539.8  Other physico-mechanical effects
+54  Chemistry. Crystallography. Mineralogy
+54-1/-4  Special auxiliary subdivision for state of substance, chemicals
+54-1  State of substance
+54-3  Particular kinds of compound
+54-4  Chemicals. Reagents
+54.01/.08  Special auxiliary subdivision for composition, production, preparation and analysis
+54.01  Chemical substances and systems. Origin. Occurrence. Phases
+54.02  Composition. Structure. Isotopes
+54.05  Production. Preparation. Isolation. Purification etc.
+54.06  Analysis, investigation and handling in general
+54.07  Apparatus and equipment for preparation, investigation and analysis
+54.08  Measurement principles, methods, techniques. Instrumentation
+542  Practical laboratory chemistry. Preparative and experimental chemistry
+542.1  Chemical laboratories
+542.2  Laboratory apparatus and instrumentation in general. Laboratory methods in general
+542.3  Measurement of weight, mass. Measurement of volume
+542.4  Heat and cold application
+542.5  Use of flames. Blowlamps
+542.6  Working with liquids
+542.7  Working with gases
+542.8  Physical, physicochemical and electrical operations
+542.9  Chemical reactions. Special chemical processes
+543  Analytical chemistry
+543.2  Chemical methods of analysis
+543.3  Water sampling and analysis
+543.4  Spectral analysis methods. Optical analysis methods
+543.5  Physicochemical methods of analysis (other than optical methods)
+543.6  Analysis of different substances. Analytical control in production conditions
+543.9  Analysis by biological and biochemical reactions. Biological methods used for analytical purposes
+544  Physical chemistry
+544.01/.07  Special auxiliary subdivision for physical chemistry
+544.01  Chemical substances and systems. Origin. Natural state. Phases
+544.02  Chemical composition. Structure. Isotopes etc.
+544.03  Physical properties and phenomena. Constants. Effects acting on state and properties of matter
+544.07  Instruments and equipment
+544.1  Chemical structure of matter
+544.2  Physical chemistry of solids, liquids and gases
+544.3  Chemical thermodynamics
+544.4  Chemical kinetics. Catalysis
+544.5  Chemistry of high energy processes
+544.6  Electrochemistry
+544.7  Chemistry of surface phenomena and colloids
+546  Inorganic chemistry
+546.1  Nonmetals and metalloids in general
+546.3  Metals in general
+547  Organic chemistry
+547.1  Classification of organic compounds. Element-organic compounds
+548/549  Mineralogical sciences. Crystallography. Mineralogy
+548  Crystallography
+548.1  Mathematical crystallography. Continuum theory of crystals
+548.2  Crystal growths. Crystalline aggregates
+548.3  Crystal chemistry
+548.4  Irregularities in crystals
+548.5  Formation, growth and solution of crystals
+548.7  Fine structure of crystals. Discontinuum theory of crystals
+549  Mineralogy. Special study of minerals
+549.2/.8  Systematic mineralogy
+549.2  Native elements and alloys
+549.3  Sulphides. Sulpho-salts
+549.4  Halides
+549.5  Oxygen compounds
+549.6  Silicates. Titanates. Zirconates. Stannates
+549.7  Other compounds of oxyacids
+549.8  Organic minerals
+55  Earth Sciences. Geological sciences
+550  Ancillary sciences of geology
+550.1  Physiography
+550.2  Geoastronomy. Cosmogony
+550.3  Geophysics
+550.4  Geochemistry
+550.7  Geobiology. Geological actions of organisms
+550.8  Applied geology and geophysics. Geological prospecting and exploration. Interpretation of results
+550.93  Geochronology. Geological dating. Determination of absolute geological age
+551  General geology. Meteorology. Climatology. Historical geology. Stratigraphy. Palaeogeography
+551.1/.4  General geology
+551.1  General structure of the Earth
+551.2  Internal geodynamics (endogenous processes)
+551.21  Vulcanicity. Vulcanism. Volcanoes. Eruptive phenomena. Eruptions
+551.24  Geotectonics
+551.3  External geodynamics (exogenous processes)
+551.32  Glaciology
+551.4  Geomorphology. Study of the Earth's physical forms
+551.44  Speleology. Caves. Fissures. Underground waters
+551.46  Physical oceanography. Submarine topography. Ocean floor
+551.5  Meteorology
+551.58  Climatology
+551.7  Historical geology. Stratigraphy
+551.8  Palaeogeography
+552  Petrology. Petrography
+552.1  Rock characteristics and properties generally. Physical and physicochemical petrology
+552.3/.6  Igneous, sedimentary and metamorphic petrology
+552.3  Magmatic rocks. Igneous rocks
+552.4  Metamorphic rocks
+552.5  Sedimentary rocks
+552.6  Meteorites
+553  Economic geology. Mineral deposits
+553.2  Ore formation. Mineral formation
+553.3/.9  Ore and other mineral deposits. Natural resources
+553.3  Ore deposits (metalliferous mineral deposits) in general. Iron and manganese ores
+553.4  Ore deposits other than iron and manganese
+553.5  Natural stone deposits
+553.6  Deposits of various inorganic economic minerals and earths (mainly nonmetalliferous)
+553.7  Mineral springs
+553.8  Deposits of precious and semiprecious stones. Gemstone deposits
+553.9  Deposits of carbonaceous rocks. Hydrocarbon deposits
+556  Hydrosphere. Water in general. Hydrology
+556.3  Groundwater hydrology. Geohydrology. Hydrogeology
+556.5  Surface-water hydrology. Land hydrology
+56  Palaeontology
+57  Biological sciences in general
+57.01/.08  Special auxiliary subdivision for theoretical aspects, characteristics, factors, etc. in biology
+57.01  General laws. Theoretical aspects. Characteristics. Properties
+57.02  Biological and ethological processes
+57.03  Pattern of property variations
+57.04  Factors. Influences
+57.05  Characteristics dependent on control processes. Principles of control processes at various levels
+57.06  Nomenclature and classification of organisms. Taxonomy
+57.07  Analytical palaeontology
+57.08  Biological techniques, experimental methods and equipment in general
+572  Physical anthropology
+572.1/.4  Anthropogeny. Human development in general. Origin of the human species
+572.9  Special anthropogeography. Individual human ancestry groups
+573  General and theoretical biology
+574  General ecology and biodiversity
+575  General genetics. General cytogenetics
+576  Cellular and subcellular biology. Cytology
+577  Material bases of life. Biochemistry. Molecular biology. Biophysics
+578  Virology
+579  Microbiology
+579.2  General microbiology
+579.6  Applied microbiology
+579.8  Classification and systematics of microorganisms
+58  Botany
+581  General botany
+581.1  Plant physiology
+581.2  Plant diseases. Plant pathology. Phytopathology
+581.3  Embryology of plants
+581.4  Plant morphology. Plant anatomy
+581.5  Habits of plants. Plant behaviour. Plant ecology. Plant ethology. The plant and its environment. Bionomics of plants
+581.6  Applied botany. Use of plants. Technobotany. Economic botany
+581.8  Plant histology
+581.9  Geographic botany. Plant geography (phytogeography). Floras. Geographic distribution of plants
+582  Systematic botany
+582.091/.099  Special auxiliary subdivisions for classification of plants according to size and form
+582.091  Trees (large woody plants with trunk)
+582.093  Shrubs (smaller woody plants without single trunk)
+582.095  Undergrowth. Undershrubs (e.g. brambles - Rosoideae)
+582.097  Woody climbers (e.g. ivy - Araliaceae)
+582.099  Herbaceous or non-woody plants (often called 'plants' or 'flowers')
+582.23  Bacteria (as plants)
+582.24  Protista (protists). Chromista
+582.261/.279  Algae
+582.28  Fungi. Eumycota / Eumycetes (true fungi). Moulds
+582.29  Lichens
+582.32/.998  Plantae (plants)
+582.32  Bryophyta (Musci)
+582.361/.99  Tracheophyta (vascular plants)
+582.37/.39  Pteridophyta. Ferns. Fern allies. Fernlike spore plants
+582.4  Spermatophyta (phanerogams / seed plants)
+582.42/.49  Gymnosperms (naked seed plants)
+582.44  Cycadophyta (cycads). Cycadopsida
+582.46  Ginkgophyta. Ginkgoopsida. Ginkgoales
+582.47  Pinophyta / Coniferae (conifers). Pinopsida
+582.5/.9  Magnoliophyta (angiosperms / covered seed plants)
+582.5  Monocotyledoneae / Liliopsida (monocotyledons / monocots)
+582.51  Arecales (palms). Pandanales. Acorales. Petrosaviales
+582.53  Alismatales
+582.54/.56  Commelinids
+582.54  Poales
+582.56  Zingiberales
+582.57  Liliales / Liliiflorae
+582.58  Asparagales
+582.6/.9  Dicotyledoneae / Magnoliopsida (dicotyledons / dicots)
+582.62  Fagales
+582.622  Betulaceae (birch family)
+582.623  Fagaceae (beech family)
+582.628  Juglandaceae (walnut family)
+582.63  Rosales
+582.634  Moraceae (mulberry family)
+582.637  Ulmaceae (elm family)
+582.639  Rosaceae (rose family)
+582.65  Nymphaeales. Ranunculales. Sabiales
+582.66  Caryophyllales / Centrospermae
+582.67  Magnoliids (scientifically outdated)
+582.672  Piperales
+582.673  Laurales
+582.677  Magnoliales
+582.68  Dilleniidae (scientifically outdated)
+582.681  Malpighiales
+582.682  Cucurbitales
+582.683  Brassicales / Capparidales / Capparales
+582.685  Malvales
+582.688  Ericales
+582.7  Rosidae (rosids)
+582.70  Saxifragales
+582.73  Fabales
+582.74  Sapindales
+582.75  Geraniales
+582.77  Myrtales
+582.79  Apiales
+582.82  Vitales
+582.9  Asteridae (asterids)
+582.92  Gentianales
+582.93  Solanales
+582.94  Lamiales
+582.99  Asterales
+59  Zoology
+591  General zoology
+591.1  Animal physiology
+591.2  Diseases of (undomesticated) animals. Animal pathology
+591.3  Animal embryology. Animal ontogeny. Development of the individual organism
+591.4  Study of animal organs. Animal organology. Animal anatomy. Zootomy
+591.5  Animal habits. Animal behaviour. Ecology. Ethology. Animal and environment. Bionomy
+591.6  Economic zoology. Applied zoology
+591.8  Animal histology
+591.9  Geographic zoology. Zoogeography. Fauna. Geographic distribution of animals
+592/599  Systematic zoology
+592  Invertebrata (invertebrates)
+593.1  Protozoa
+593.4  Porifera (sponges)
+594  Mollusca. Bryozoa. Brachiopoda
+595  Articulata
+595.7  Hexapoda. Insecta (insects)
+596/599  Chordata
+596.2  Tunicata / Urochordata (tunicates)
+597/599  Vertebrata (vertebrates)
+597.2/.5  Pisces (fishes) (scientifically outdated)
+597.3  Chondrichthyes (cartilaginous fishes)
+597.31  Elasmobranchii
+597.311  Galeomorphii
+597.317  Batoidea
+597.4/.5  Osteichthyes (bony fishes)
+597.42/.55  Actinopterygii (ray-finned fishes)
+597.42  Chondrostei
+597.5  Teleostei (teleosts)
+597.535  Anguilliformes
+597.541  Clupeiformes
+597.55  Euteleosti / Euteleostei
+597.551  Ostariophysi
+597.552  Protacanthopterygii
+597.555  Paracanthopterygii
+597.556  Acanthopterygii (spiny finned fishes)
+597.6/.9  Amphibia (amphibians)
+597.7  Gymnophiona (caecilians)
+597.8  Anura (tailless amphibians)
+597.9  Caudata (tailed amphibians)
+597.91  Sirenidae
+597.94  Salamandridae
+598  Sauropsida. Synapsida
+598.1/.2  Sauropsida
+598.1  Reptilia (reptiles)
+598.125  Testudinidae (tortoises)
+598.16  Squamata (scaled reptiles)
+598.161  Lacertilia (lizards)
+598.162  Serpentes / Ophidia (snakes, serpents, ophidians)
+598.166  Amphisbaenia (worm-lizards)
+598.18  Crurotarsi
+598.182  Crocodylomorpha
+598.19  Avemetatarsalia (extinct)
+598.191  Pterosauria (pterosaurs ) (extinct)
+598.192  Dinosauria (dinosaurs) (extinct)
+598.192.32  Tyrannosauridae (extinct)
+598.192.63  Diplodocidae (extinct)
+598.192.77  Ceratopsidae (extinct)
+598.2  Aves (birds)
+598.221  Struthioniformes (ratites)
+598.231  Sphenisciformes. Spheniscidae (penguins)
+598.233  Podicipediformes. Podicipedidae (grebes)
+598.234  Procellariiformes
+598.235  Pelecaniformes
+598.24  Gruiformes. Charadriiformes. Ciconiiformes
+598.241  Gruiformes
+598.243  Charadriiformes
+598.244  Ciconiiformes
+598.25  Anseriformes
+598.26  Galliformes. Columbiformes
+598.271  Psittaciformes
+598.272  Piciformes
+598.274  Cuculiformes. Opisthocomiformes
+598.279  Cathartiformes. Accipitriformes. Falconiformes. Strigiformes
+598.282  Menuridae. Maluridae. Pardalotidae. Meliphagidae. Promeropidae. Callaeidae
+598.283  Alaudidae
+598.284  Hirundinidae
+598.285  Motacillidae
+598.286  Pycnonotidae. Aegithalidae. Acrocephalidae
+598.287  Bombycillidae. Dulidae. Ptilogonatidae. Hypocoliidae
+598.288  Cinclidae. Troglodytidae. Mimidae. Prunellidae. Turdidae. Silviidae. Muscicapidae. Timaliidae
+598.289  Paridae. Sittidae. Certhiidae. Orthonychidae
+598.291  Nectariniidae (sunbirds). Zosteropidae (white-eyes). Dicaeidae (flowerpeckers). Dicruridae (drongos). Monarchidae (monarch flycatchers). Pachycephalidae (whistlers)
+598.292  Oriolidae (orioles). Laniidae (true shrikes). Irenidae (fairy-bluebirds). Regulidae (crests). Picathartidae (rockfowls)
+598.293  Corvidae. Paradisaeidae (birds of paradise). Ptilonorhynchidae (bowerbirds). Climacteridae. Artamidae. Corcoracidae
+598.294  Sturnidae. Passeridae. Ploceidae. Estrildidae
+598.296  Fringillidae. Parulidae. Thraupidae. Emberizidae. Icteridae
+599  Mammalia (mammals)
+599.1  Prototheria
+599.2  Metatheria
+599.22  Diprotodontia
+599.3/.8  Eutheria (placental mammals)
+599.31  Pholidota. Xenarthra
+599.311  Pholidota / Squamata. Manidae
+599.312  Xenarthra / Edentata (xenarthrans / edentates)
+599.32  Rodentia. Lagomorpha
+599.322  Sciuromorpha. Castorimorpha. Anomaluromorpha
+599.324  Hystricomorpha
+599.325  Lagomorpha (lagomorphs)
+599.35/.38  Insectivora (insectivorous mammals)
+599.36  Soricomorpha. Erinaceomorpha
+599.39  Dermoptera. Cynocephalidae
+599.4  Chiroptera (bats)
+599.5  Cetacea. Sirenia
+599.51  Mysticeti (baleen whales)
+599.53  Odontoceti (toothed whales)
+599.55  Sirenia (sirenians / sea cows)
+599.61/.73  Ungulata (ungulates / hoofed mammals)
+599.61  Proboscidea (proboscideans)
+599.62  Hyracoidea. Procaviidae
+599.68  Tubulidentata. Orycteropodidae
+599.72  Perissodactyla (odd-toed ungulates)
+599.721  Tapiridae (tapirs)
+599.722  Rhinocerotidae (rhinoceroses)
+599.723  Equidae
+599.73  Artiodactyla (even-toed ungulates)
+599.735  Ruminantia (ruminants)
+599.74  Carnivora (carnivorans)
+599.742.5  Viverridae
+599.742.6  Hyaenidae
+599.742.7  Felidae
+599.743  Herpestidae. Eupleridae. Nandiniidae
+599.744  Canidae. Ursidae. Musteloidea
+599.745  Pinnipedia
+599.78  Scandentia (treeshrews)
+599.8  Primates
+599.81  Prosimii (prosimians)
+599.813  Lorisidae / Loriidae
+599.815  Lemuridae. Lepilemuridae
+599.818  Tarsiiformes. Tarsiidae (tarsiers)
+599.82/.89  Simiiformes (simians)
+599.82  Platyrrhini (New World monkeys)
+599.85  Cercopithecoidea. Cercopithecidae
+599.88/.89  Hominoidea
+599.88  Hylobatidae (lesser apes)
+599.89  Hominidae (hominids / great apes)

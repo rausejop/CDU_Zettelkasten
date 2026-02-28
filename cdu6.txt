@@ -1,0 +1,493 @@
+6  APPLIED SCIENCES. MEDICINE. TECHNOLOGY
+60  Biotechnology
+601  Fundamental concepts
+602  Processes and techniques in biotechnology
+604  Biotechnology products
+606  Applications of biotechnology
+608  Issues in biotechnology
+61  Medical sciences
+611612  Human biology
+611  Anatomy. Human and comparative anatomy
+612  Physiology. Human and comparative physiology
+612.1.8  Systematic physiology
+612.1  Blood. Cardiovascular, circulatory system
+612.2  Respiration. Breathing. Respiratory system
+612.3  Alimentation. Eating. Digestion. Nutrition
+612.4  Glandular system. Secretion. Excretion
+612.5  Animal heat. Thermal processes
+612.6  Reproduction. Growth. Development
+612.7  Motor functions. Organs of locomotion. Voice. Integument
+612.8  Nervous system. Sensory organs
+613  Hygiene generally. Personal health and hygiene
+613.2  Dietetics. Nutrition principles applied to feeding and foods
+613.3  Drinks. Curative drinks. Medicinal waters. Liquid diet
+613.4  Personal hygiene. Clothing
+613.5  Hygiene of dwellings
+613.6  Occupational health hazards. Occupational health and hygiene
+613.7  Health and hygiene of leisure, recreation, sleep
+613.8  Health and hygiene of the nervous system. Health and ethics
+613.9  Health and hygiene in relation to age, sex, ethnicity
+614  Public health and hygiene. Accident prevention
+614.1  Population. Depopulation
+614.2  Public and professional organization of health
+614.3  Sanitary inspection and control
+614.39  National health services
+614.4  Prevention and control of communicable (infectious, contagious) diseases. Prevention of epidemics
+614.6  Cemetery hygiene. Disposal of the dead
+614.7  Hygiene of air, water, soil. Pollution and its control
+614.8  Accidents. Risks. Hazards. Accident prevention. Personal protection. Safety
+614.9  Animal health. Veterinary hygiene
+615  Pharmacology. Therapeutics. Toxicology
+615.1  General and professional pharmacy
+615.2  Medicaments according to their principal action
+615.3  Medicaments according to their origin
+615.4  Pharmaceutical preparations. Medical material. Equipment
+615.8  Physiotherapy. Physical therapy. Radiotherapy. Other nonmedicinal therapeutic treatment
+615.9  General toxicology. General studies of poisons and poisoning (intoxication)
+616  Pathology. Clinical medicine
+616-001-009  Special auxiliary subdivision for morbid processes
+616-001  Traumata. Injuries. Wounds
+616-002  Inflammation. Irritation. Engorgement (hyperaemia). Mucous congestion
+616-003  Regressive and reparative processes
+616-004  Sclerosis. Hardening (induration). Cirrhosis
+616-005  Local circulatory disorders
+616-006  Tumours. Neoplasms. Blastomata. Choristomata. Hamartomata. Oncology
+616-007  Defective structural development. Physiological deformities. Malformations. Hemiterata. Oversized, undersized organs. Teratology. Monsters. Abnormalities
+616-008  Functional and metabolic disorders
+616-009  Neural (nervous) disorders
+616-01-099  Special auxiliary subdivision for general aspects of pathology
+616-01  Various aspects of disease, patients and medical intervention
+616-02  Aetiology. Science of the causes of disease
+616-03  Various forms of disease, of treatment, of administration of medicaments
+616-05  Persons and personal characteristics in pathology. Characteristics of the patient
+616-06  Complications. Consequences. Repercussions. Concurrence, simultaneous state. Correlation. Previous illnesses. Previous state of health. Antagonism of two diseases
+616-07  Semeiology. Symptomatology. Signs and symptoms. Examination. Diagnosis. Propaedeutics
+616-08  Treatment
+616-091  Pathological anatomy. Morbid anatomy
+616-092  Pathological physiology. Processes, mode of action of diseases. Pathogenesis. Study of origin of diseases
+616-093  Microbial techniques
+616-094  Microbial morphology
+616-095  Microbial physiology
+616-097  Immunogenicity
+616-098  Microbial physics, chemistry, metabolism, catabolism
+616-099  Poisoning. Intoxication
+616-71-78  Special auxiliary subdivision for medical and surgical instrumentation and equipment
+616-71  Medical instruments and equipment in general
+616-72  Surgical and therapeutic instruments
+616-74  Reinforcement and reparative materials and equipment
+616-76  Corrective and protective appliances, aids etc.
+616-77  Prosthetic materials and parts. Artificial organs etc.
+616-78  Machines and mechanical apparatus
+616.1.9  Special pathology
+616.1  Pathology of the circulatory system, blood vessels. Cardiovascular complaints
+616.2  Pathology of the respiratory system. Complaints of the respiratory organs
+616.3  Pathology of the digestive system. Complaints of the alimentary canal
+616.31  Stomatology. Oral cavity. Mouth. Diseases of the mouth and teeth
+616.4  Pathology of the lymphatic system, haemopoietic (haematopoietic) organs, endocrines
+616.5  Skin. Common integument. Clinical dermatology. Cutaneous complaints
+616.6  Pathology of the urogenital system. Urinary and sexual (genital) complaints. Urology
+616.7  Pathology of the organs of locomotion. Skeletal and locomotor systems
+616.8  Neurology. Neuropathology. Nervous system
+616.89  Psychiatry. Pathological psychiatry. Psychopathology. Phrenopathies. Psychoses. Mental abnormality. Morbid mental states. Behavioural and emotional disturbances
+616.9  Communicable diseases. Infectious and contagious diseases, fevers
+617  Surgery. Orthopaedics. Ophthalmology
+617.3  Orthopaedics in general
+617.7  Ophthalmology. Eye disorders and treatment
+618  Gynaecology. Obstetrics
+62  Engineering. Technology in general
+62-1-9  Special auxiliary subdivision for technology in general
+62-1  General characteristics of machines
+62-2  Fixed and movable parts, components of machines
+62-3  Fluid control parts and drives. Valves, closures etc.
+62-4  State, condition, form of materials, surfaces, objects, products
+62-5  Operation and control of machines and processes
+62-6  Fuel and other heat-source characteristics of machinery and installations
+62-7  Devices for servicing, maintenance and protection of machines
+62-8  Machines according to motive power, propulsive force. Source of energy of machine
+62-9  Variables, conditions and characteristics of production processes, plant and equipment
+62-91  State of material characteristics and variables
+62-92  Reactions in terms of reagents. Reagents
+62-93  Processes, machines and equipment according to mode of working, continuity, associations, media
+62-94  Direction, velocity, rate, duration of processes etc.
+62-95  Simple and multiple processes. Single-stage and multistage processes
+62-96  Processes in terms of altering product properties. Modification in general
+62-97  Thermal characteristics. Temperature. Temperature range
+62-98  Pressure. Pressure range
+620  Materials testing. Commercial materials. Power stations. Economics of energy
+620.3  Nanotechnology
+620.9  Economics of energy in general
+621  Mechanical engineering in general. Nuclear technology. Electrical engineering. Machinery
+621.1  Heat engines in general. Generation, distribution and use of steam. Steam engines. Boilers
+621.22  Hydraulic energy. Water power. Hydraulic machinery
+621.3  Electrical engineering
+621.4  Heat engines (except steam engines)
+621.5  Pneumatic energy, machinery and tools. Refrigeration
+621.6  Fluids handling, storage and distribution plant and techniques
+621.7  Mechanical technology in general processes, tools, machines, equipment
+621.8  Machine elements. Motive power engineering. Materials handling. Fixings. Lubrication
+621.9  Working or machining with chip formation. Abrasive working. Hammers and presses
+622  Mining
+622.1  Preliminary investigation. Mine surveying and mapping. Exploration of mineral deposits (surface and underground)
+622.2  Mining operations. Exploration, opening-up, development, working of mineral deposits
+622.3  Mining of specific minerals, ores, rocks
+622.4  Ventilation, air conditioning, heating and illumination of mines
+622.5  Mine drainage. Unwatering (dewatering)
+622.6  Haulage and handling. Hoisting. Winding. Surface transport
+622.7  Treatment, processing of minerals. Mineral dressing. Ore preparation
+622.8  Mining hazards, accidents and damage. Health protection and safety in mines
+623  Military engineering
+623.1.7  Land-based military engineering. Artillery
+623.1.3  Field engineering. Fortifications. Defence works
+623.1  Fortresses. Permanent fortifications. Fortified lines, areas
+623.2  Assault and defence works. Siege works. Field fortifications. Trench works
+623.3  Land minefields. Field obstacles. Flooding
+623.4  Armaments. Ordnance. Arms. Weapons. Guns. Artillery. Small arms. Side arms. Armoured and other service vehicles. Ammunition and war gases. Guided missiles and rockets
+623.5  Ballistics. Gunnery. Theoretical and experimental problems
+623.6  Field engineering equipment and operations. Lines of communication. Radar countermeasures. Military topography
+623.7  Military and naval aviation. Air defence
+623.8.9  Naval engineering
+623.8  Naval construction. Naval bases. Warships and other vessels
+623.9  Material and equipment of naval forces. Protection and armament of vessels. Submarine defences
+624  Civil and structural engineering in general
+624.01.07  Special auxiliary subdivision for civil and structural engineering
+624.01  Structures and structural parts according to material and method of construction
+624.03  Size, permanence, location and shape of structures
+624.04  Structural design. Graphical and analytical statics for investigation and calculation of structures
+624.05  Site, organization and plant. Construction methods
+624.07  Structural elements. Load-bearing members
+624.1  Substructures. Earthworks. Foundations. Tunnelling
+624.21.8  Bridge construction
+624.3  Truss bridges (open-web, lattice girder bridges)
+624.5  Cable bridges. Suspension bridges
+624.6  Arch bridges
+624.8  Movable bridges
+624.9  Superstructures (except bridges). Superstructures complete in themselves
+625  Civil engineering of land transport. Railway engineering. Highway engineering
+625.1.5  Railways. Tramways. Cableways
+625.1  Railways in general. Permanent way. Track construction
+625.5  Cable railways. Funicular railways. Suspension railways. Aerial ropeways and cableways. Telphers
+625.7.8  Highway engineering
+625.7  Highways in general. Roads. Carriageways. Streets. Rural and urban road systems
+625.8  Hard surfacing of highways. Pavement, carpet or wearing course. Preparation and use of materials
+626627  Hydraulic engineering and construction. Water (aquatic) structures
+626  Hydraulic engineering in general
+626.1  Inland navigable waterways. Canals. Canalized rivers
+626.4  Locks
+626.5  Lifting gear and inclined planes for vessels
+626.8  Agricultural hydraulics. Irrigation, drainage and reclamation engineering
+626.9  Maritime canals. Ship canals
+627  Natural waterway, port, harbour and shore engineering. Navigational, dredging, salvage and rescue facilities. Dams and hydraulic power plant
+627.2  Ports, harbours and roadsteads engineering and construction works in general
+627.3  In-port facilities. Docks. Wharfs. Quays. Installations and equipment
+627.4  River bank protection. Straightening of rivers and streams. Other river improvement works
+627.5  Other waterway protection and improvement works. Dykes. Coast protection. Land drainage and reclamation
+627.7  Navigational facilities. Channel maintenance. Marine salvage and rescue facilities
+627.8  Dams. Hydraulic power plant works
+628  Public health engineering. Water. Sanitation. Illuminating engineering
+628.1  Water supply. Water treatment. Water consumption
+628.2  Urban water removal. Town drainage. Sewerage
+628.3  Sewage. Treatment, disposal, utilization of sewage
+628.4  Urban hygiene. Wastes. Refuse. Rubbish. Garbage. Collection and disposal of town wastes
+628.5  Measures against industrial and other nuisances
+628.6  Drainage and sanitary installations of buildings (particularly public health requirements)
+628.8  Indoor climate. Air conditioning. Heating. Ventilating
+628.9  Lighting. Illumination engineering
+629  Transport vehicle engineering
+629.01.08  Special auxiliary subdivision for transport vehicle engineering
+629.01  Vehicle design principles characteristics, capabilities, tests
+629.02  Vehicle structure, construction principles, general layout and parts
+629.03  Propulsion systems
+629.04  Interior layout accommodation, installation, equipment for persons and freight
+629.05  Guidance, control-initiation and navigation systems and instruments (vehicle-borne)
+629.06  Vehicle auxiliary systems and devices
+629.07  Technical aspects of vehicular operations. Operational techniques
+629.08  Base equipment, installations and corresponding technical procedures
+629.3  Land vehicle engineering (excluding rail vehicles)
+629.4  Rail vehicle engineering. Locomotives. Rolling stock. Railway yards. Installations and services concerned with rolling stock
+629.5  Watercraft engineering. Marine engineering. Boats. Ships. Boatbuilding and shipbuilding
+629.7  Air and space transport engineering. Aeronautics and aircraft. Rockets and missiles. Astronautics and spacecraft
+63  Agriculture and related sciences and techniques. Forestry. Farming. Wildlife exploitation
+630  Forestry
+6300  Forests, forestry and the utilization of forest products
+6301  Factors of the environment. Forest biology
+6302  Silviculture
+6303  Work science (work studies) in forestry. Harvesting of wood logging and transport. Forest engineering
+6304  Forest injuries and protection
+6305  Forest mensuration. Increment, development and structure of stands. Surveying and mapping
+6306  Forest management. Business economics of forestry. Administration and organization of forest enterprises
+6307  Marketing of forest products. Economics of forest transport and the wood industries
+6308  Forest products and their utilization
+6309  Forests and forestry from the national point of view. Social economics of forestry
+631635  Farm management. Agronomy. Horticulture
+631  Agriculture in general
+631.1  Farm management and organization
+631.2  Farm buildings, structures and installations. Buildings for livestock, produce, machinery and equipment
+631.3  Agricultural machines, implements and equipment
+631.4  Soil science. Pedology. Soil research
+631.5  Agricultural operations
+631.6  Rural engineering
+631.8  Fertilizers, manures and soil enrichment. Promotion of growth. Plant stimulants
+632  Plant damage, injuries. Plant diseases. Pests, organisms injurious to plants. Plant protection
+633635  Horticulture in general. Specific crops
+633  Field crops and their production
+633.1  Cereals. Grain crops
+633.2  Forage grasses. Meadow and pasture grasses
+633.3  Forage plants except grasses
+633.4  Edible roots and tubers. Root crops
+633.5  Textile and fibre plants
+633.6  Sugar and starch plants
+633.7  Plants yielding stimulants. Beverage plants
+633.8  Aromatic plants. Condiment plants. Oleaginous plants. Dye plants. Tanning plants. Medicinal plants
+633.9  Other plants with industrial uses
+634  Fruit growing
+634.2  Stone fruits. Drupes in general
+634.3  Rutaceous and moraceous fruits. Citrous fruits in general
+634.4  Other pulp fruits
+634.5  Nuts
+634.6  Various tropical and subtropical fruits
+634.7  Small fruits of shrubs and herbaceous plants. Berries
+634.8  Viticulture. Grape vines. Vineyards
+635  Garden plants. Gardening
+635.1.8  Vegetables. Kitchen gardening
+635.1  Edible roots. Root vegetables
+635.2  Edible tubers and bulbs
+635.3  Plants with edible stalks, leaves or flowers
+635.4  Other green vegetables. Leaf vegetables
+635.6  Edible fruits and seeds. Pulses
+635.7  Aromatic herbs. Plants for seasoning
+635.8  Edible fungi
+635.9  Ornamentals. Decorative plants. Ornamental gardening
+636  Animal husbandry and breeding in general. Livestock rearing. Breeding of domestic animals
+636.01.09  Special auxiliary subdivision for animal husbandry
+636.01  Origin, evolution and domestication of animals kept by humans. Taming of animals. Biological bases of rearing and training
+636.02  Animals kept for breeding, showing and scientific uses
+636.03  Animals bred or kept for food or other produce (productivity, yield). Farm and ranch animals in general
+636.04  Animals bred or kept for work and service or pleasure of humans
+636.05  Animals according to breeding
+636.06  Characteristics, constitution and special biological features of domestic animals
+636.08  General questions of breeding and rearing
+636.09  Veterinary science
+636.1  Domestic equines. Horses
+636.2  Large ruminants. Cattle, oxen
+636.3  Small ruminants
+636.4  Pigs. Swine
+636.5  Poultry
+636.6  Birds (except poultry and game) bred or kept by humans
+636.7  Dogs
+636.8  Cats
+636.9  Other animals kept by humans
+637  Produce of domestic (farmyard) animals and game
+638  Keeping, breeding and management of insects and other arthropods
+639  Hunting. Fishing. Fish breeding
+639.1  Hunting
+639.2  Fishing. Fisheries
+639.3  Fish breeding. Pisciculture
+639.4  Breeding of aquatic molluscs (shellfish)
+639.5  Breeding of aquatic crustaceans
+639.6  Other marine products
+64  Home economics. Domestic science. Housekeeping
+64.01.08  Special auxiliary subdivision for domestic science
+64.01  The household. Household management
+64.048  Study of work and working methods in the household
+64.05  Home economics. Housekeeping, furnishing and equipping a home etc. for particular kinds of person
+64.06  Household appliances and machines. Labour-saving devices in the home
+64.08  Moving house. Removals
+640  Types of household
+641642  Food. Cooking. Dishes. Meals
+641  Food. Cooking. Dishes
+642  Meals and mealtimes. Tableware
+643645  The home. Household fittings and furnishings
+643  The home. The dwelling
+644  Installations for health and comfort in dwellings
+644.1  Indoor climate control. Heating. Ventilation. Air conditioning
+644.3  Domestic lighting
+644.6  Domestic water supply and sanitary installations
+645  Furniture and household fittings
+646649  Personal requisites. Household management
+646  Clothing. Body care
+646.2  Making and mending of clothes at home. Domestic dressmaking
+646.4  Clothing. Garments
+646.7  Body care. Beauty care. Accessories for dressing and undressing
+648  Washing. Laundry. Cleaning
+649  Domestic care of children, invalids, guests
+65  Communication and transport industries. Accountancy. Business management. Public relations
+654  Telecommunication and telecontrol (organization, services)
+654.1  Telegraphy, telephony, radio, television services
+654.9  Signalling. Various telecommunication services. Remote control (telecontrol)
+655  Graphic industries. Printing. Publishing. Book trade
+655.1  Printing industry in general
+655.4  Publishing and bookselling in general
+656  Transport and postal services. Traffic organization and control
+656.1.5  Land transport
+656.1  Road transport
+656.2  Rail transport. Rail traffic
+656.4  Transport by light railways
+656.5  Land transport by conveyor systems and pipelines
+656.6  Transport by water
+656.7  Transport by air. Air traffic
+656.8  Postal services and administration
+657  Accountancy
+658  Business management, administration. Commercial organization
+658.1  Forms of enterprise. Finances
+658.2  Installations and plant. Premises. Buildings, works, factories. Materials
+658.3  Human relations in the enterprise. Personnel management
+658.5  Production engineering and planning. Design. Production management and control
+658.6  Commercial organization and practice. Goods. Services
+658.7  Buying. Purchasing. Procurement. Management of stock
+658.8  Marketing. Sales. Selling. Distribution
+658.9  Other commercial activities
+659  Publicity. Information work. Public relations
+659.1  Publicity. Advertising
+659.2  Information work. Advisory and consultancy services
+659.3  Mass communication. Informing, enlightening of the public at large
+659.4  Public relations (PR)
+66  Chemical technology. Chemical and related industries
+66.01.09  Special auxiliary subdivision for chemical engineering
+66.01  Fundamentals of chemical engineering
+66.02  Chemical processing operations and equipment in general
+66.03  Materials, characteristics, processes and equipment
+66.04  Heat treatment operations and equipment
+66.06  Chemical technology of liquids. Processes and equipment for treatment of or with liquids
+66.07  Chemical technology of gases
+66.08  Physical and physicochemical operations and equipment. Physical and physicochemical effects on chemical processes
+661  Chemicals
+661.1  Special chemical industries
+661.2  Production of sulphur and its derivatives
+661.3  Production of soda and potash, alkalis
+661.4  Production of halogens and halogen compounds, inorganic peroxo-compounds
+661.5  Production of nitrogen compounds. Fixation of nitrogen. Nitrogen industry in general
+661.6  Production of various nonmetals and semimetals (metalloids), and their compounds
+661.7  Production of organic substances. Organic chemicals
+661.8  Metallic compounds in general. Salts. Mineral compounds
+661.9  Production of gases
+662  Explosives. Fuels
+662.1.4  Explosives
+662.1  Fireworks. Pyrotechnic and related devices
+662.2  High explosives
+662.3  Propellant powders. Gunpowders
+662.4  Initiators, primers for explosives. Detonators
+662.5  Igniters. Kindlers. Matches. Lighters
+662.6.9  Heat economy. Fuel economy. Fuels. Heating
+662.6  Heat or fuel economy in general. Combustion. Natural fuels
+662.7  Fuel technology. Processed fuels
+662.8  Mechanical treatment for solidification of fuels. Briquetting
+662.9  Furnace and combustion engineering
+663  Industrial microbiology. Industrial mycology. Zymurgy, fermentation industry. Beverage industry. Stimulant industry
+663.1  Microbiological industries. Science and technique of applied microbiology. Applied mycology
+663.2  Wine. Winemaking. Oenology
+663.3  Cider. Perry. Other fruit wines, sap wines
+663.4  Beers. Brewing. Malting
+663.5  Potable alcohol. Spirituous liquors (ardent spirits). Alcohol distillation, refining
+663.6  Water for beverages and other industrial uses. Mineral waters. Medicinal waters. Edible ice
+663.8  Main ingredients for the blending of drinks. Fruit and vegetable juices. Syrups. Liqueurs. Soft drinks
+663.9  Chocolate. Cocoa. Coffee. Tea. Tobacco
+664  Production and preservation of solid foodstuffs
+664.1  Sugar. Molasses. Glucose etc.
+664.2  Starch. Amylaceous materials
+664.3  Edible oils and fats. Margarine. Protein foodstuffs
+664.4  Edible minerals
+664.5  Spices. Condiments
+664.6.7  Technology and processing of cereal grains
+664.6  Baking. Bread. Flour confectionery
+664.7  Cereal technology. Flour and corn milling. Grain processing
+664.8.9  Food preservation technique
+665  Oils. Fats. Waxes. Adhesives. Gums. Resins
+665.1  Generalities on oils, fats, waxes and products derived from them
+665.2  Oils, fats and waxes of animal origin
+665.3  Vegetable oils, fats, waxes, phosphatides
+665.5  Essential oils. Perfumery. Cosmetics
+665.6.7  Processes and products of the petroleum and allied industries
+665.6  Mineral oil technology. Technology of petroleum and allied products
+665.7  Products of the mineral oil industry. Mineral oils and similar products
+665.9  Miscellaneous organic chemical industries
+666  Glass industry. Ceramics. Cement and concrete
+666.1  Glass industry. Glass technology. Glass manufacture in general. Glass in the comprehensive sense
+666.3.7  Ceramics
+666.3  Ceramics in general. Ceramic raw materials
+666.5  Porcelain. China
+666.6  Stoneware. Earthenware (porous ceramic ware)
+666.7  Coarse ceramics. Heavy clayware. Refractories. Hard ceramic materials. Mixtures of ceramics and other materials
+666.9  Gypsum, lime and cement industries. Hard-setting materials. Plasters and compositions. Mortar and concrete
+667  Colour industries
+667.2  Dyestuffs industry. Manufacture and use of dyestuffs
+667.4  Writing inks
+667.5  Printing inks (black or coloured). Lithographic inks. Writing and drawing pencils. Coloured crayons
+667.6  Coatings and coating techniques. Paints. Varnishes. Lacquers
+667.7  Colouring, staining etc., of various materials (except printing and painting)
+669  Metallurgy
+669.1  Ferrous metallurgy. Iron and steel
+669.2  Nonferrous metals in general
+67  Various industries, trades and crafts
+671  Articles of precious metals, gems, precious stones
+671.1  Gold and silver articles. Articles of other precious metals. Jewellery
+671.4  Manufacture of coins and medals. Minting
+672  Articles of iron and steel in general
+673  Articles of nonferrous metals (except precious metals)
+674  Timber and woodworking industry
+675  Leather industry (including fur and imitation leather)
+676  Pulp, paper and board industry
+677  Textile industry
+677.1.5  Textile fibres
+677.1.3  Natural fibres
+677.1.2  Vegetable fibres
+677.1  Bast fibres (fibres from dicotyledon stems). Hard fibres (fibres from monocotyledon leaves and fruit)
+677.2  Vegetable hairs
+677.3  Animal fibres
+677.4  Man-made fibres
+677.5  Mineral and metal fibres. Braiding materials. Rubber threads. Paper yarns
+678  Industries based on macromolecular materials. Rubber industry. Plastics industry
+678.4  Natural rubber. Other natural macromoleculars containing only carbon and hydrogen
+678.5  Plastics
+678.6  Synthetic polycondensation products. Polycondensates. Synthetic resins. Synthetic fibres etc.
+678.7  Synthetic polymerization products. Polymerizates. Synthetic rubbers
+679  Industries based on various processable materials
+679.7  Cable and cordage industries
+679.8  Stone technology. Stone industry
+679.9  Technology of other natural processable materials
+68  Industries, crafts and trades for finished or assembled articles
+681  Precision mechanisms and instruments
+681.1  Apparatus with wheel or motor mechanisms
+681.2  Instrument-making in general. Instrumentation. Measuring instruments and their manufacture. Balances. Weighing devices
+681.5  Automatic control technology. Smart technology
+681.6  Graphic reproduction machines and equipment
+681.7  Optical apparatus and instruments
+681.8  Technical acoustics
+682  Smithery. Blacksmithery. Farriery. Hand-forged ironwork
+682.1  Farriery. Shoe-smithing
+682.3  Toolsmithing. Edge-tool forging
+682.5  Furnishing ironwork
+682.6  Building ironwork
+683  Ironmongery. Hardware. Locksmithing. Bottling. Lamps. Heating appliances
+684  Furniture and allied industries. Furniture manufacture. Upholstery
+684.4  Furniture. Furniture design and manufacture
+684.6  Veneering. Marquetry. Inlay etc.
+684.7  Upholstery. Bedding. Covers. Hangings
+685  Saddlery. Footwear. Gloving. Travel, sports, games and other equipment
+685.1  Saddlery. Harness making
+685.2  Accoutrements. Beltmaking. Leather equipment and analogous products
+685.3  Footwear. Other aids to locomotion
+685.4  Gloving. Glovemaking
+685.5  Travel goods. Camping equipment
+685.6  Sports and games equipment. Equipment and installations for athletics, gymnastics, physical training
+685.7  Mountaineering, climbing equipment. Swimming equipment
+685.8  Equipment for board and table games
+686  Bookbinding. Metallizing. Mirror-making. Stationery
+687  Clothing industry. Garment manufacture. Beauty culture
+687.1  Outer clothing. Tailoring
+687.2  Linen wear. Lingerie
+687.3  Knitwear. Ties. Devices for securing and protecting clothing
+687.4  Headgear. Hatmaking. Millinery
+687.5  Beauty culture industries
+687.8  Artificial furriery
+687.9  Brush industry. Brooms etc.
+688  Fancy goods. Toys. Decorative articles
+688.7  Toys. Articles for amusement, tricks. Decorations
+689  Amateur handicrafts. Technical hobbies
+69  Building (construction) trade. Building materials. Building practice and procedure
+691  Building materials. Building components
+692  Structural parts and elements of buildings
+693  Masonry and related building crafts
+694  Timber construction. Carpentry. Joinery
+696  Equipment, services, installations in buildings (sanitary, gas, steam, electrical). Pipe fitter. Plumber. Metal worker. Drainlayer. Electrician. Other trades
+697  Heating, ventilation and air conditioning of buildings
+698  Finishing and decorating trades
