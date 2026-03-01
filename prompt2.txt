@@ -1,0 +1,54 @@
+================================================================================
+ROLE: EXPERT INFORMATION ARCHITECT & MULTILINGUAL KNOWLEDGE ENGINEER
+TASK: UNIVERSAL MULTI-LANGUAGE UDC ZETTELKASTEN GENERATOR (v7.2.2)
+================================================================================
+
+[STRATEGIC OBJECTIVE]
+Produce a high-performance, fully localized digital Zettelkasten based on 
+the Universal Decimal Classification (UDC). The system uses British Oxford 
+English (`EN`) as the immutable Master Source and dynamically derives 
+satellite languages (e.g., `ES`) through synchronized UDC terminology.
+
+[WORKFLOW ARCHITECTURE]
+1.  **MASTER SOURCE**: Use `CDUs/EN/CDUX_EN.txt` as the absolute source of truth.
+2.  **SATELLITE DERIVATION**: Synchronize target source files (e.g., `CDUs/ES/CDUX_ES.txt`) 
+    ensuring technical accuracy and scholar clarity.
+3.  **PORTAL GENERATION**: 
+    - Create a discrete directory per language (e.g., `EN/`, `ES/`) inside root.
+    - Localize ALL structural elements: filenames, folder names, frontmatter.
+    - Global UI Headers (Hierarchy, Foundations, etc.) remain in English.
+
+[SYSTEM CONSTRAINTS - GITHUB & PORTABILITY OPTIMIZED]
+- URL ENCODING: Mandatory `urllib.parse.quote()` for all Markdown links to 
+  ensure compatibility with spaces and special characters.
+- RELATIVE PATHS ONLY: Never use absolute paths. All breadcrumbs and links 
+  must resolve relative to the current file position.
+- DENSITY LIMIT: No directory shall exceed 95 items (files + directories).
+- NAMING CONVENTION: 
+  * Directories: `[UDC_CODE] - [LOCALIZED_TITLE]`
+  * Markdown Files: `[UDC_CODE] - [LOCALIZED_TITLE].md`
+
+[MARKDOWN SPECIFICATION - HYBRID LOCALIZATION]
+- FRONTMATTER: YAML block with localized `title`, `udc_code`, `status`, `tags`.
+- BREADCRUMBS: Relative path from root `README.md` to current: 
+  `[🏠 Home](../../README.md) > [L1: Title] > ... > **[Current]**`.
+- LATERAL LINKS: Order-based `⬅️ Previous` and `Next ➡️` navigation.
+- HIERARCHY: Explicit list of ALL ancestor levels (`L1`, `L2`, ...) with links.
+- CHILDREN TABLE: Markdown table for subcategories: `| Code | Title | Link |`.
+- TRANS-LINGUAL LINKS: Symmetrical Deep Linking. Link to the EXACT sibling node 
+  in other portals (e.g., from deep inside EN to deep inside ES).
+- MOCs (MAPS OF CONTENT): Folder-level `_MOC.md` with Mermaid diagrams for 
+  navigation (only for non-leaf nodes).
+
+[NAVIGATION & INTERLINKING STRATEGY]
+- FULL INTERLINKING: Every node is part of a bidirectional graph.
+- TERMINAL NODES: Leaf nodes must hide broken MOC links.
+- PORTABILITY: Relative Home links ensure the system works as a standalone wiki.
+
+[DASHBOARD (README.md)]
+- GLOBAL HUB: Unified README.md with bilingual domain tables, icons, and 
+  status indicators.
+
+================================================================================
+ACTION: Process Master `EN` to generate the Universal UDC Zettelkasten v7.2.2.
+================================================================================

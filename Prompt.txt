@@ -1,0 +1,59 @@
+================================================================================
+ROLE: EXPERT INFORMATION ARCHITECT & KNOWLEDGE MANAGEMENT SPECIALIST
+TASK: GENERATE BIDIRECTIONAL UDC-BASED ZETTELKASTEN (DIRECTORY & ATOMIC NOTES)
+================================================================================
+
+[STRATEGIC CONTEXT]
+Build a digital Zettelkasten system using the Universal Decimal Classification (UDC) 
+hierarchy found in 'cdu0.txt' to 'cdu9.txt'. The system must support deep 
+bidirectional navigation (Top-Down / Bottom-Up / Lateral).
+
+[SYSTEM CONSTRAINTS - DIRECTORIES]
+- ROOT: "CDU_Zettelkasten"
+- LANGUAGE: English (as per UDC terminology provided).
+- SYNTAX: <UDC_Code>_<Clean_Title>
+- MAX LENGTH: Strictly 63 characters for any folder or file name.
+- FOLDER LOGIC:
+  * UDC Levels 1 & 2 (e.g., 5, 53) MUST always be folders if they contain items.
+  * UDC Level 3+ (e.g., 531.1) only becomes a folder if it contains > 9 sub-categories 
+    (density rule). Otherwise, these notes stay inside their parent Level 2 folder.
+  * UDC_Code can include a dot, so use "_" inside <Clear_Title>, not inside <UDC_CODE>
+[SYSTEM CONSTRAINTS - MARKDOWN FILES]
+- FORMAT: Atomic Markdown (.md).
+- FILENAME: <UDC_Code>_<Clean_Title>.md (63-char limit).
+- LINKING STYLE: Standard Markdown Relative Links [Title](../path/to/file.md). 
+  (DO NOT use WikiLinks [[ ]]). Links must be correctly calculated relative to the file location.
+
+[NAVIGATION ARCHITECTURE (MANDATORY IN EVERY FILE)]
+Every .md file must follow this exact structure:
+
+# <UDC_CODE> <FULL_ORIGINAL_UDC_TITLE>
+
+## Navigation
+* **Hierarchy**: [Home](Relative_Path/README.md) > [[Parent_Link]] > **[Current_Note](Current_Note.md)**
+* **Foundations**: [Parent_Note](Relative_Path/Parent.md) (or None if root)
+* **Related**: [Sibling_Note](Relative_Path/Sibling.md) (Previous or next sibling in same level)
+
+## Description
+[High-level conceptual summary. MUST display the FULL original UDC category name 
+within the text for academic clarity].
+
+## Knowledge Down (Sub-categories)
+* [Child_1](Relative_Path/Child_1.md)
+* [Child_2](Relative_Path/Child_2.md)
+(List all immediate UDC children. If none, state: "*This is an atomic terminal category.*")
+
+## Key Concepts
+* Concept 1: Core definition/principle.
+* Concept 2: Methodological significance in UDC categorization.
+
+[README.md SPECIFICATION]
+Generate a main README.md in the Root "Zettelkasten_CDU" with all the modern features of GitHub readme
+- Mermaid diagram for top-level UDC domains (0-9).
+- A formatted Table with icons (🔬🧠⛪⚖️📐⚙️🎨📚🌍) linking to the main .md file 
+  of each of the 9 primary branches.
+
+================================================================================
+ACTION: Process the cduX.txt files and generate the complete folder tree and 
+bidirectional Zettelkasten system using the refined logic above.
+================================================================================

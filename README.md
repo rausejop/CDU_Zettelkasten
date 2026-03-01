@@ -1,51 +1,32 @@
-# 🏛️ Universal Decimal Classification (UDC) Zettelkasten v5.0
+# 🏛️ Universal UDC Zettelkasten (v7.2.2-STABLE)
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
-![Status](https://img.shields.io/badge/Status-Bilingual--Optimized-green)
+Welcome to the **Dynamic Universal Zettelkasten**, organized with perfect hierarchical linking and URL encoding.
 
-Dual-language knowledge repository organized by UDC.
+## 🌍 Multilingual Portals
+| Language | Portal Link | Status |
+| :--- | :--- | :--- |
+| EN | [EN Portal](./EN/0%20-%20SCIENCE%20AND%20KNOWLEDGE.%20ORGANIZATION.%20COMPUTER%20SCIENCE.%20INFORMATION.%20DOCUMENTATION.%20LIBRARIANSHIP.%20IN.md) | 🟢 Active |
+| ES | [ES Portal](./ES/0%20-%20CIENCIA%20Y%20CONOCIMIENTO.%20ORGANIZACI%C3%93N.%20CIENCIAS%20DE%20LA%20COMPUTACI%C3%93N.%20INFORMACI%C3%93N.%20DOCUMENTACI%C3%93N.%20BIBLIO.md) | 🟢 Active |
 
-## 🌍 Language Portals / Portales de Idioma
+## 🗺️ Knowledge Domains (EN vs ES)
+| Icon | Code | Domain (EN) | Dominio (ES) |
+| :---: | :--- | :--- | :--- |
+| 📚 | **0** | [SCIENCE AND KNOWLEDGE. ORGANIZATION. COMPUTER SCIENCE. INFORMATION. DOCUMENTATION. LIBRARIANSHIP. INSTITUTIONS. PUBLICATIONS](./EN/0%20-%20SCIENCE%20AND%20KNOWLEDGE.%20ORGANIZATION.%20COMPUTER%20SCIENCE.%20INFORMATION.%20DOCUMENTATION.%20LIBRARIANSHIP.%20IN.md) | [CIENCIA Y CONOCIMIENTO. ORGANIZACIÓN. CIENCIAS DE LA COMPUTACIÓN. INFORMACIÓN. DOCUMENTACIÓN. BIBLIOTECONOMÍA. INSTITUCIONES. PUBLICACIONES](./ES/0%20-%20CIENCIA%20Y%20CONOCIMIENTO.%20ORGANIZACI%C3%93N.%20CIENCIAS%20DE%20LA%20COMPUTACI%C3%93N.%20INFORMACI%C3%93N.%20DOCUMENTACI%C3%93N.%20BIBLIO.md) |
+| 🧠 | **1** | [PHILOSOPHY. PSYCHOLOGY](./EN/1%20-%20PHILOSOPHY.%20PSYCHOLOGY.md) | [FILOSOFÍA. PSICOLOGÍA](./ES/1%20-%20FILOSOF%C3%8DA.%20PSICOLOG%C3%8DA.md) |
+| 🛐 | **2** | [RELIGION. THEOLOGY](./EN/2%20-%20RELIGION.%20THEOLOGY.md) | [RELIGIÓN. TEOLOGÍA](./ES/2%20-%20RELIGI%C3%93N.%20TEOLOG%C3%8DA.md) |
+| ⚖️ | **3** | [SOCIAL SCIENCES](./EN/3%20-%20SOCIAL%20SCIENCES.md) | [CIENCIAS SOCIALES](./ES/3%20-%20CIENCIAS%20SOCIALES.md) |
+| ⚗️ | **5** | [MATHEMATICS. NATURAL SCIENCES](./EN/5%20-%20MATHEMATICS.%20NATURAL%20SCIENCES.md) | [MATEMÁTICAS. CIENCIAS NATURALES](./ES/5%20-%20MATEM%C3%81TICAS.%20CIENCIAS%20NATURALES.md) |
+| 🛠️ | **6** | [APPLIED SCIENCES. MEDICINE. TECHNOLOGY](./EN/6%20-%20APPLIED%20SCIENCES.%20MEDICINE.%20TECHNOLOGY.md) | [CIENCIAS APLICADAS. MEDICINA. TECNOLOGÍA](./ES/6%20-%20CIENCIAS%20APLICADAS.%20MEDICINA.%20TECNOLOG%C3%8DA.md) |
+| 🎨 | **7** | [THE ARTS. RECREATION. ENTERTAINMENT. SPORT](./EN/7%20-%20THE%20ARTS.%20RECREATION.%20ENTERTAINMENT.%20SPORT.md) | [ARTES. RECREACIÓN. ENTRETENIMIENTO. DEPORTE](./ES/7%20-%20ARTES.%20RECREACI%C3%93N.%20ENTRETENIMIENTO.%20DEPORTE.md) |
+| 📖 | **8** | [LANGUAGE. LINGUISTICS. LITERATURE](./EN/8%20-%20LANGUAGE.%20LINGUISTICS.%20LITERATURE.md) | [LENGUA. LINGÜÍSTICA. LITERATURA](./ES/8%20-%20LENGUA.%20LING%C3%9C%C3%8DSTICA.%20LITERATURA.md) |
+| 📜 | **9** | [GEOGRAPHY. BIOGRAPHY. HISTORY](./EN/9%20-%20GEOGRAPHY.%20BIOGRAPHY.%20HISTORY.md) | [GEOGRAFÍA. BIOGRAFÍA. HISTORIA](./ES/9%20-%20GEOGRAF%C3%8DA.%20BIOGRAF%C3%8DA.%20HISTORIA.md) |
 
-### 🇺🇸 [English Version (EN)](EN/)
-| Icon | Code | Title | Link |
-|:---:|:---:|:---|:---:|
-| 🔬 | `0` | Science and Knowledge / Computer Science | [Open Branch](EN/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR.md) |
-| 🧠 | `1` | Philosophy and Psychology | [Open Branch](EN/1_PHILOSOPHY_PSYCHOLOGY/1_PHILOSOPHY_PSYCHOLOGY.md) |
-| ⛪ | `2` | Religion and Theology | [Open Branch](EN/2_RELIGION_THEOLOGY/2_RELIGION_THEOLOGY.md) |
-| ⚖️ | `3` | Social Sciences | [Open Branch](EN/3_SOCIAL_SCIENCES/3_SOCIAL_SCIENCES.md) |
-| 📐 | `5` | Mathematics and Natural Sciences | [Open Branch](EN/5_MATHEMATICS_NATURAL_SCIENCES/5_MATHEMATICS_NATURAL_SCIENCES.md) |
-| ⚙️ | `6` | Applied Sciences / Medicine | [Open Branch](EN/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY.md) |
-| 🎨 | `7` | The Arts / Recreation | [Open Branch](EN/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT.md) |
-| 📚 | `8` | Language and Literature | [Open Branch](EN/8_LANGUAGE_LINGUISTICS_LITERATURE/8_LANGUAGE_LINGUISTICS_LITERATURE.md) |
-| 🌍 | `9` | Geography and History | [Open Branch](EN/9_GEOGRAPHY_BIOGRAPHY_HISTORY/9_GEOGRAPHY_BIOGRAPHY_HISTORY.md) |
-
-### 🇪🇸 [Versión Española (ES)](ES/)
-| Icon | Code | Title | Link |
-|:---:|:---:|:---|:---:|
-| 🔬 | `0` | Ciencia y Conocimiento / Informática | [Abrir Rama](ES/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR/0_SCIENCE_AND_KNOWLEDGE_ORGANIZATION_COMPUTER_SCIENCE_INFOR.md) |
-| 🧠 | `1` | Filosofía y Psicología | [Abrir Rama](ES/1_PHILOSOPHY_PSYCHOLOGY/1_PHILOSOPHY_PSYCHOLOGY.md) |
-| ⛪ | `2` | Religión y Teología | [Abrir Rama](ES/2_RELIGION_THEOLOGY/2_RELIGION_THEOLOGY.md) |
-| ⚖️ | `3` | Ciencias Sociales | [Abrir Rama](ES/3_SOCIAL_SCIENCES/3_SOCIAL_SCIENCES.md) |
-| 📐 | `5` | Matemáticas y Ciencias Naturales | [Abrir Rama](ES/5_MATHEMATICS_NATURAL_SCIENCES/5_MATHEMATICS_NATURAL_SCIENCES.md) |
-| ⚙️ | `6` | Ciencias Aplicadas / Medicina | [Abrir Rama](ES/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY/6_APPLIED_SCIENCES_MEDICINE_TECHNOLOGY.md) |
-| 🎨 | `7` | Bellas Artes / Recreación | [Abrir Rama](ES/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT/7_THE_ARTS_RECREATION_ENTERTAINMENT_SPORT.md) |
-| 📚 | `8` | Lengua y Literatura | [Abrir Rama](ES/8_LANGUAGE_LINGUISTICS_LITERATURE/8_LANGUAGE_LINGUISTICS_LITERATURE.md) |
-| 🌍 | `9` | Geografía e Historia | [Abrir Rama](ES/9_GEOGRAPHY_BIOGRAPHY_HISTORY/9_GEOGRAPHY_BIOGRAPHY_HISTORY.md) |
-
-## 📑 Project Plan & Progress
-- [x] Initial UDC Parsing and Hierarchy Building.
-- [x] Recursive Directory Density Optimization (<100 files).
-- [x] Bidirectional Lateral and Vertical Linking.
-- [x] Hybrid Aggregation for high-density nodes.
-- [x] **Premium UI**: Callouts, MOCs, and YAML Metadata.
-- [x] **v5.0**: Dual Language (EN/ES) concurrent generation.
-- [ ] Integration with External Knowledge APIs (Wikipedia/UDCC).
-- [ ] automated PDF export for offline study.
-
-## ⚖️ License
-Licensed under the **Apache License, Version 2.0** (the "License").
-You may obtain a copy of the License at [http://www.apache.org/licenses/LICENSE-2.0](http://www.apache.org/licenses/LICENSE-2.0).
+## 🚀 Bugfix Release (v7.2.2)
+### ✨ Bugfixes & Improvements
+- [x] **URL Encoding**: Fixed broken links due to spaces and special characters.
+- [x] **Cross-Portal Deep Linking**: Corrected paths for inter-language navigation.
+- [x] **Leaf Node Optimization**: No more broken MOC links on terminal nodes.
 
 ---
-*Generated by Antigravity AI | 2026*
+> [!TIP]
+> Use the breadcrumbs at the top of each file to navigate back to any level of the hierarchy up to the Home (README).
