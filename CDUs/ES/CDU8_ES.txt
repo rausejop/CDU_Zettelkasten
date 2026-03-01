@@ -1,0 +1,212 @@
+8  LENGUA. LINGÜÍSTICA. LITERATURA
+80  Cuestiones generales relativas tanto a la lingüística como a la literatura. Filología
+801  Prosodia. Ciencias auxiliares y fuentes de la filología
+801.6  Prosodia: métrica, ritmo, rima y estructura del verso
+801.7  Ciencias auxiliares y estudios de filología
+801.8  Fuentes de la lingüística y la filología. Colecciones de textos
+808  Retórica. El uso eficaz del lenguaje
+808.1  Autoría. Actividad y técnica literaria
+808.2  Edición. Adaptación y disposición de originales para su publicación
+808.5  Retórica del discurso. Arte o técnica de la expresión oral
+81  Lingüística y lenguas
+81-11  Escuelas y tendencias en lingüística
+81-112  Lingüística diacrónica (lingüística histórica)
+81-114  Lingüística sincrónica (lingüística estática)
+81-116  Estructuralismo. Lingüística estructural
+81-13  Metodología de la lingüística. Métodos y medios
+81`01/`08  Números auxiliares especiales para orígenes y periodos de las lenguas
+81`01  Periodo antiguo. Periodo arcaico
+81`02  Periodo clásico
+81`04  Periodo medio
+81`06  Periodo moderno
+81`08  Lengua revivida
+81`1/`4  Subdivisión auxiliar especial para campos temáticos y facetas de la lingüística y las lenguas
+81`1  Lingüística general
+81`2  Teoría de los signos. Teoría de la traducción. Normalización. Uso. Lingüística geográfica
+81`22  Teoría general de los signos en relación con la lingüística. Semiología. Semiótica
+81`23  Psicolingüística. Psicología del lenguaje
+81`24  Conocimiento práctico de las lenguas
+81`25  Teoría de la traducción
+81`26  Planificación lingüística. Control de la lengua. Normalización de la lengua
+81`27  Sociolingüística. Uso de la lengua
+81`28  Dialectología. Lingüística geográfica. Lingüística de área
+81`3  Lingüística matemática y aplicada. Fonética. Grafemática. Gramática. Semántica. Estilística
+81`32  Lingüística matemática
+81`33  Lingüística aplicada
+81`34  Fonética. Fonología
+81`35  Grafemática. Ortografía. Deletreo
+81`36  Gramática
+81`37  Semántica
+81`38  Estilística general
+81`4  Lingüística del texto, análisis del discurso. Lingüística tipológica
+81`42  Lingüística del texto. Análisis del discurso
+81`44  Lingüística tipológica
+811  Lenguas
+811.1/.9  Todas las lenguas naturales o artificiales
+811.1/.8  Lenguas naturales individuales
+811.1/.2  Lenguas indoeuropeas
+811.11  Lenguas germánicas
+811.111  Lengua inglesa
+811.112  Lenguas germánicas occidentales (distintas del inglés)
+811.112.2  Lengua alemana (Alto alemán, alemán estándar escrito)
+811.112.5  Lengua neerlandesa
+811.113  Lenguas germánicas del norte (nórdicas)
+811.113.4  Lengua danesa
+811.113.5  Lengua noruega
+811.113.6  Lengua sueca
+811.12  Lenguas itálicas
+811.124  Lengua latina
+811.13  Lenguas románicas
+811.131  Lenguas italo-románicas
+811.131.1  Lengua italiana
+811.133  Lenguas galo-románicas
+811.133.1  Lengua francesa
+811.134  Lenguas ibero-románicas
+811.134.1  Lengua catalana
+811.134.2  Lengua española
+811.134.3  Lengua portuguesa
+811.135  Lenguas románicas balcánicas
+811.135.1  Lengua rumana
+811.14  Lengua griega (helénica)
+811.16  Lenguas eslavas
+811.161  Lenguas eslavas orientales
+811.161.1  Lengua rusa
+811.161.2  Lengua ucraniana
+811.161.3  Lengua bielorrusa
+811.162  Lenguas eslavas occidentales
+811.162.1  Lengua polaca
+811.162.3  Lengua checa
+811.162.4  Lengua eslovaca
+811.163  Lenguas eslavas del sur
+811.163.2  Lengua búlgara
+811.163.3  Lengua macedonia
+811.163.4  Lenguas serbia y croata
+811.163.41  Lengua serbia
+811.163.42  Lengua croata
+811.163.6  Lengua eslovena
+811.17  Lenguas bálticas
+811.172  Lengua lituana
+811.174  Lengua letona
+811.18  Lengua albanesa
+811.19  Lengua armenia
+811.21/.22  Lenguas indo-iranias
+811.21  Lenguas índicas
+811.214  Lenguas índicas modernas
+811.214.2  Lenguas índicas modernas centrales
+811.214.21  Lengua hindi
+811.214.3  Lenguas índicas modernas orientales
+811.214.32  Lengua bengalí (Bangla)
+811.3  Lenguas muertas de afiliación desconocida. Lenguas caucásicas
+811.34  Lenguas muertas de afiliación desconocida, habladas en el Mediterráneo y el Cercano Oriente (excepto semíticas)
+811.35  Lenguas caucásicas
+811.353  Grupo del sur (kartveliano)
+811.353.1  Lengua georgiana
+811.4  Lenguas afroasiáticas, nilo-saharianas, congo-kordofanas, khoisan
+811.5  Lenguas urals-altaicas, paleosiberianas, esquimal-aleutianas, dravidianas y sino-tibetanas. Japonés. Coreano. Ainu
+811.51  Lenguas urals-altaicas
+811.511  Lenguas urálicas
+811.511.1  Lenguas finogrias
+811.511.11  Lenguas fínicas
+811.511.111  Lengua finlandesa
+811.511.113  Lengua estonia
+811.511.14  Lenguas ugrias
+811.511.141  Lengua húngara
+811.521  Lengua japonesa
+811.58  Lenguas sino-tibetanas
+811.581  Lenguas chinas
+811.6  Lenguas austroasiáticas. Lenguas austronesias
+811.7  Lenguas indo-pacíficas (no austronesias). Lenguas australianas
+811.8  Lenguas indígenas americanas
+811.9  Lenguas artificiales
+811.92  Lenguas artificiales para uso entre seres humanos. Lenguas auxiliares internacionales (interlenguas)
+811.922  Lengua esperanto
+82  Literatura
+82-1/-9  Subdivisión auxiliar especial para formas y géneros literarios
+82-1  Poesía. Poemas. Verso
+82-2  Teatro. Obras de teatro
+82-3  Ficción. Narrativa en prosa
+82-31  Novelas. Relatos largos
+82-32  Cuentos. Novelas cortas
+82-4  Ensayos
+82-5  Oratoria. Discursos
+82-6  Cartas. Arte de escribir cartas. Correspondencia. Cartas auténticas. Otras obras en forma epistolar
+82-7  Sátira en prosa. Humor, epigrama, parodia, etc.
+82-8  Miscelánea. Poligrafías. Selecciones
+82-9  Otras formas literarias diversas
+82-92  Literatura periódica. Escritos en series, revistas, reseñas. Periodismo. Literatura ocasional. Escritos polémicos y políticos. Panfletismo
+82-94  La historia como género literario. Escritura histórica. Historiografía. Crónicas. Anales. Memorias. Diarios. Biografía. Autobiografía
+82.02/.09  Subdivisión auxiliar especial para teoría, estudio y técnica de la literatura
+82.02  Escuelas, tendencias y movimientos literarios
+82.09  Crítica literaria. Estudios literarios
+82.091  Estudios literarios comparados. Literatura comparada
+821  Literaturas de lenguas individuales y familias de lenguas
+821.1/.2  Literatura indoeuropea
+821.11  Literatura de lenguas germánicas
+821.111  Literatura inglesa
+821.112  Literaturas germánicas occidentales (distintas del inglés)
+821.112.2  Literatura alemana
+821.112.5  Literatura neerlandesa
+821.113  Literaturas germánicas del norte, nórdicas (escandinavas)
+821.113.4  Literatura danesa
+821.113.5  Literatura noruega
+821.113.6  Literatura sueca
+821.12  Literatura de lenguas itálicas
+821.124  Literatura latina
+821.13  Literatura de lenguas románicas
+821.131  Literatura de lenguas italo-románicas
+821.131.1  Literatura italiana
+821.133  Literatura de lenguas galo-románicas
+821.133.1  Literatura francesa
+821.134  Literatura de lenguas ibero-románicas
+821.134.1  Literatura catalana
+821.134.2  Literatura española
+821.134.3  Literatura portuguesa
+821.135  Literatura de lenguas románicas balcánicas
+821.135.1  Literatura rumana
+821.14  Literatura griega (helénica)
+821.16  Literatura de lenguas eslavas
+821.161  Literatura eslava oriental
+821.161.1  Literatura rusa
+821.161.2  Literatura ucraniana
+821.161.3  Literatura bielorrusa
+821.162  Literaturas eslavas occidentales
+821.162.1  Literatura polaca
+821.162.3  Literatura checa
+821.162.4  Literatura eslovaca
+821.163  Literaturas eslavas del sur
+821.163.2  Literatura búlgara
+821.163.3  Literatura macedonia
+821.163.4  Literatura serbia. Literatura croata
+821.163.41  Literatura serbia
+821.163.42  Literatura croata
+821.163.6  Literatura eslovena
+821.17  Literatura de lenguas bálticas
+821.172  Literatura lituana
+821.174  Literatura letona
+821.18  Literatura albanesa
+821.19  Literatura armenia
+821.21/.22  Literatura de lenguas indo-iranias
+821.21  Literaturas índicas
+821.214  Literatura de lenguas índicas modernas
+821.214.21  Literatura hindi
+821.214.32  Literatura bengalí (Bangla)
+821.3  Literatura de lenguas caucásicas. Literatura de lenguas muertas de afiliación desconocida
+821.353  Literatura caucásica del sur (kartveliana)
+821.353.1  Literatura georgiana
+821.4  Literatura de lenguas afroasiáticas, nilo-saharianas, congo-kordofanas, khoisan
+821.5  Literatura de lenguas urals-altaicas, japonesa, coreana, ainu, paleosiberianas, esquimal-aleutianas, dravidianas, sino-tibetanas
+821.51  Literatura de lenguas urals-altaicas
+821.511  Literatura de lenguas urálicas
+821.511.1  Literatura de lenguas finogrias
+821.511.11  Literatura de lenguas fínicas
+821.511.111  Literatura finlandesa
+821.511.113  Literatura estonia
+821.511.14  Literatura de lenguas ugrias
+821.511.141  Literatura húngara
+821.521  Literatura japonesa
+821.58  Literatura de lenguas sino-tibetanas
+821.581  Literatura china
+821.6  Literatura de lenguas austroasiáticas. Literatura austronesia
+821.7  Literatura de lenguas indo-pacíficas (no austronesias). Literatura australiana (aborigen)
+821.8  Literatura de lenguas indígenas americanas (literaturas amerindias)
+821.9  Literatura en lenguas artificiales

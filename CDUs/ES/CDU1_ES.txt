@@ -1,0 +1,40 @@
+1  FILOSOFÍA. PSICOLOGÍA
+101  Naturaleza y papel de la filosofía
+11  Metafísica
+111  Metafísica general. Ontología
+113/119  Cosmología. Filosofía de la naturaleza
+122/129  Metafísica especial
+13  Filosofía de la mente y del espíritu. Metafísica de la vida espiritual
+130.1  Conceptos y leyes generales
+130.2  Filosofía de la cultura. Sistemas culturales. Teoría de los complejos culturales
+130.3  Metafísica de la vida espiritual
+133  Lo paranormal. Lo oculto. Fenómenos Psi
+14  Sistemas filosóficos y puntos de vista
+140  Actitudes filosóficas posibles. Tipología de sistemas
+141  Tipos de puntos de vista
+159.9  Psicología
+159.91  Psicofisiología (psicología fisiológica). Fisiología mental
+159.92  Desarrollo y capacidad mental. Psicología comparada
+159.93  Sensación. Percepción sensorial
+159.94  Funciones ejecutivas
+159.942  Emociones. Afectos. Sensibilidad. Sentimientos
+159.943  Conación y movimiento
+159.944  Trabajo y fatiga. Eficiencia
+159.946  Funciones motoras especiales
+159.947  Volición. Voluntad
+159.95  Procesos mentales superiores
+159.96  Estados y procesos mentales especiales
+159.97  Psicología anormal
+159.98  Psicología aplicada (psicotecnia) en general
+16  Lógica. Epistemología. Teoría del conocimiento. Metodología de la lógica
+161/162  Fundamentos de la lógica
+164  Logística. Lógica simbólica. Lógica matemática. Cálculo lógico
+165  Teoría del conocimiento. Epistemología
+165.6/.8  Puntos de vista y doctrinas epistemológicas
+167/168  Metodología lógica
+17  Filosofía moral. Ética. Filosofía práctica
+171  Ética individual. Deberes del hombre hacia sí mismo
+172  Ética social. Deberes hacia los semejantes
+173  Ética familiar
+176  Ética sexual. Moralidad sexual
+177  Ética y sociedad

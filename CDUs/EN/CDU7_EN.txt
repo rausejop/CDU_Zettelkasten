@@ -1,0 +1,185 @@
+7  THE ARTS. RECREATION. ENTERTAINMENT. SPORT
+7.01/.09  Special auxiliary subdivision for the arts
+7.01  Theory and philosophy of art. Principles of design, proportion, optical effect
+7.02  Art technique. Craftsmanship
+7.03  Artistic periods and phases. Schools, styles, influences
+7.031  Prehistoric art. Primitive art (ancient and modern)
+7.032  Art of the ancient cultures of the Old World. Styles of Antiquity
+7.033  Mediaeval art (Christian, Islamic art)
+7.034  Renaissance. Baroque. Rococo. Colonial
+7.035  Post-Renaissance
+7.036  Modern art movements (from late 19th century). Realism, impressionism and subsequent 20th century trends
+7.037  Transition between Expressionism and abstract art
+7.038  Abstract art. Non-figurative art
+7.04  Subjects for artistic representation. Iconography. Iconology. Details and finishes. Decoration. Ornament
+7.05  Applications of art (in industry, trade, the home, everyday life)
+7.06  Various questions concerning art
+7.07  Occupations and activities associated with the arts and entertainment
+7.08  Characteristic features, forms, combinations etc. (in art, entertainment and sport)
+7.091  Performance, presentation (in original medium)
+71  Physical planning. Regional, town and country planning. Landscapes, parks, gardens
+711  Principles and practice of physical planning. Regional, town and country planning
+712  Planning of landscape (natural and designed). Parks. Gardens
+718  Cemeteries. Graveyards. Crematoriums. Other places for disposal of the dead (planning, design, upkeep etc.)
+719  Preservation of rural and urban amenities generally
+72  Architecture
+72.01/.05  Special auxiliary subdivision for architecture
+72.01  Theory and philosophy of architecture. Principles of design, proportion, optical effect
+72.02  Technique
+72.03  Periods and phases of architecture. Schools, styles, influences
+72.04  Architectural details and finishes. Decoration. Ornament
+72.05  Parts, spaces and rooms planned for specific uses
+721  Buildings generally
+725  Public, civil, commercial, industrial buildings. Secular architecture generally
+726  Religious, ecclesiastical architecture. Sacred and funerary buildings
+727  Buildings for educational, scientific, cultural purposes
+728  Domestic architecture. Housing. Residential buildings
+73  Plastic arts
+730  Sculpture in general. Statuary
+736  Glyptics. Sigillography
+737  Numismatics
+738  Ceramic arts. Pottery
+738.1  Porcelain
+738.2  Glazed earthenware
+738.3  Stoneware
+738.4  Enamel (vitreous enamel). Cloisonné. Enamel ornaments
+738.5  Mosaics
+738.6  Terracotta
+738.8  Various ceramic objects
+739  Metal arts
+739.1  Goldsmith's and silversmith's art
+739.2  Jewellery (metalworking aspects)
+74  Drawing. Design. Applied arts and crafts
+741/744  Drawing
+741  Drawing in general
+741.5  Caricature. Cartoons. Satirical and humorous drawings
+741.7  Silhouettes. Scissor-cuts
+741.9  Collections of drawings. Sketchbooks
+742  Perspective in drawing
+744  Linear and geometric drawing. Technical drawing
+745/749  Industrial and domestic arts and crafts. Applied arts
+745  Decorative handicrafts
+746  Fancy work. Art needlework
+747  Interior decoration
+748  Vitreous arts. Artistic glassware and crystal ware
+749  Artistic furniture, heating and lighting devices
+75  Painting
+76  Graphic art, printmaking. Graphics
+761  Relief techniques
+762  Intaglio techniques
+763  Planographic techniques. Lithography (autolithography)
+766  Applied graphic arts. Commercial graphics
+77  Photography and similar processes
+77.01/.09  Special auxiliary subdivision for photography
+77.01  Theory, principles and nature of photographic phenomena
+77.02  Photographic operations
+77.03/.08  Kinds of photography and photograph
+77.03  Documentary photography. Photographic records and their interpretation
+77.04  Pictorial, artistic photography. Photographs according to subject
+77.05  Photography and exposures according to ambient conditions
+77.06  Photographs, pictures or prints according to appearance, form or size
+77.07  Photographs according to support or base material
+77.08  Photographs according to intermediate stages
+771  Photographic equipment, apparatus and materials
+772  Photographic systems, processes (especially those using inorganic substances or physical phenomena)
+774  Photomechanical processes generally
+776  Photolithography. Photographic production of planographic plates
+777  Intaglio and relief processes. Photogravure. Letterpress or relief plates (line and halftone blocks)
+778  Special applications and techniques of photography
+78  Music
+78.01  Theory and philosophy of music
+78.02  Composition of musical works
+78.03  Periods and phases in the history of music. Musical schools, styles and influences
+78.04  Subjects for musical representation. Programme music. Illustrative, descriptive or representational music
+78.05  Applications of music in industry and trade, the home and everyday life
+78.06  Various questions concerning music
+78.07  Occupations and activities associated with music
+78.08  Characteristics, kinds of musical works. Musical forms
+78.09  Types of performance or presentation
+780.6  Musical instruments and accessories
+780.7  Music teaching aids. Other music accessories
+781.1  Scientific theories of music. Mathematical, physical, physiological, psychological bases. Musical acoustics
+781.2  General theory of music
+781.4  Harmony. Counterpoint. Melody
+781.6  General questions of composition and interpretation
+781.7  Theories and forms of national music (of various countries or peoples)
+781.8  Theories and forms of the music of antiquity
+782/785  Kinds of music
+782  Dramatic music. Opera
+783  Church music. Sacred music. Religious music
+784  Vocal music
+784.1  A cappella music. Unaccompanied vocal music. Rounds
+784.2  Vocal extracts from larger works
+784.3  Vocal chamber music
+784.4  Popular, traditional, historic vocal music
+784.5  Secular oratorios and cantatas
+784.6  Community songs. Children's songs
+784.7  Other kinds of song
+785  Instrumental music. Symphonic music. Grouping of instruments. Ensemble music
+785.1  Ensemble music for relatively large numbers of instruments
+785.7  Chamber music. Music for several instruments concertante
+79  Recreation. Entertainment. Games. Sport
+791  Cinema. Films (motion pictures)
+791-2/-5  Special auxiliary subdivision for cinema, films
+791-2  Films according to characteristics of presentation
+791-5  Character types
+791.1  Principal stages of cinema development
+791.2  Genre, subject, style of film
+791.3  Aesthetics and film
+791.4  Society and film
+791.5  Education and film
+791.6  Film as industry
+792  Theatre. Stagecraft. Dramatic performances
+792.2  Spoken drama. Plays
+792.5  Musical productions
+792.7  Variety. Vaudeville. Music hall. Cabaret. Revues. Pantomimes
+792.8  Presentations of art of movement. Choreography
+792.9  Special kinds of theatre
+793  Social entertainments and recreations. Art of movement. Dance
+793.2  Particular social recreations, requiring preparations
+793.3  Art of movement. Dance
+793.5/.7  Parlour games. Party games
+793.5  Games involving forfeits
+793.7  Games not characterized by action
+793.8  Scientific recreations. Conjuring. Sleight of hand. Illusionism. Magic tricks
+794  Board and table games (of thought, skill and chance)
+794.1  Chess
+794.2  Minor board games not dependent on chance
+794.3  Table games with pieces or counters and an element of chance
+794.4  Card games
+794.5  Pattern games or puzzles requiring patience or dexterity
+794.8  Minor aiming games. Children's miniature games
+794.9  Games of pure chance
+796  Sport. Games. Physical exercises
+796.01/.09  Special auxiliary subdivision for sport, games, physical exercise
+796.01  Sport philosophy, theory, purpose, methodology, ethics and aesthetics
+796.02  Technical matters. Practice and exercise facilities. Sports gear, equipment. Materials. Protection against accidents, hazards
+796.03  Sports movement. Sports activity from various points of view
+796.05  Manner of contest. Combative style. Strategy. Tactics
+796.06  Organization of sport, in general
+796.07  Kind of participation in sport
+796.08  Participation (number of players), combinations etc.
+796.09  Contests. Records
+796.1  Outdoor games and recreation
+796.2  Games of motion and skill with special equipment
+796.3  Ball games
+796.32  High ball games with large ball
+796.33  Ball games in which the ball is played with foot and hand
+796.35  Low ball games with striking implement
+796.4  Gymnastics. Acrobatics. Athletics
+796.5  Touring. Walking. Mountaineering. Orientation sports. Camping
+796.6  Wheel sports. Cycling. Roller sports
+796.7  Motoring. Motorcycling
+796.8  Combat sports. Self-defence sports. Heavy athletics. Trials of strength
+796.9  Winter sports. Ice games. Skiing. Sledging
+797  Water sports. Aerial sports
+797.1  Watercraft sports. Boating
+797.2  Swimming. Diving. Aquatic games
+797.5  Aerial sports
+798  Riding and driving. Horse and other animal sports
+798.2  Riding
+798.4  Horse racing. Mounted racing
+798.6  Driving with horses. Coaching, carriage-driving. Trotting
+798.8  Canine sports. Dog racing etc.
+798.9  Other animal contests, e.g. with birds
+799  Sport fishing. Sport hunting. Shooting and target sports

@@ -1,0 +1,205 @@
+3  CIENCIAS SOCIALES
+303  Métodos de las ciencias sociales
+304  Cuestiones sociales. Práctica social. Práctica cultural. Estilo de vida (Lebensweise)
+305  Estudios de género
+308  Sociografía. Estudios descriptivos de la sociedad (tanto cualitativos como cuantitativos)
+311  La estadística como ciencia. Teoría estadística
+311.1  Fundamentos, bases de la estadística
+311.2  Técnica de investigación. Preparación. Tabulación
+311.3  Organización general de la estadística. Estadísticas oficiales
+311.4  Estadísticas privadas
+314/316  Sociedad
+314  Demografía. Estudios de población
+314.1  Población
+316  Sociología
+316.1  Objeto y alcance de la sociología
+316.2  Puntos de vista y tendencias sociológicas
+316.3  Estructura social. La sociedad como sistema social
+316.33  Elementos básicos y subsistemas de las sociedades globales como categorías sociológicas
+316.34  Estratificación social. Diferenciación social
+316.35  Grupos sociales. Organizaciones sociales
+316.36  Matrimonio y familia
+316.4  Procesos sociales. Dinámica social
+316.6  Psicología social
+316.7  Sociología de la cultura. Contexto cultural de la vida social
+32  Política
+321  Formas de organización política. Los estados como poderes políticos
+322  Relaciones entre Iglesia y Estado. Política hacia la religión. Política eclesiástica
+323  Asuntos internos. Política interna
+323.1  Movimientos y problemas nacionalistas, populares, étnicos. Minorías nacionales y étnicas
+323.2  Relación entre el pueblo y el estado. Actividades políticas internas
+323.4  Lucha de clases. Formas de lucha de clases
+324  Elecciones. Plebiscitos. Referéndums. Campañas electorales. Corrupción electoral, malas prácticas. Resultados electorales
+325  Apertura de territorios. Colonización. Colonialismo
+326  Esclavitud. Trabajo forzado, no libre
+327  Relaciones internacionales. Política mundial, global. Asuntos internacionales. Política exterior
+327.2  Imperialismo. Política imperialista. Expansionismo político
+327.3  Internacionalismo. Movimientos internacionales, objetivos
+327.5  Bloques internacionales. Tensión, conflicto
+327.7  Actividad de las organizaciones internacionales e intergubernamentales
+327.8  Influencia política, presión sobre otros estados
+328  Parlamentos. Representación del pueblo. Gobiernos
+329  Partidos y movimientos políticos
+33  Economía. Ciencia económica
+330  Economía en general
+330.1  Ciencia económica. Conceptos económicos básicos, teoría. Valor. Capital. Fondos
+330.3  Dinámica de la economía. Movimiento económico
+330.4  Economía matemática
+330.5  Propiedad nacional. Activos nacionales. Producto social. Balanza de la economía. Estimación del producto nacional
+330.8  Historia de las teorías económicas, doctrinas, dogmas
+331  Trabajo. Empleo. Trabajo. Economía del trabajo. Organización del trabajo
+331.1  Teoría y organización del trabajo. Relaciones entre empresas y empleados
+331.2  Salarios. Sueldos. Remuneración. Pago
+331.3  Condiciones de trabajo distintas del salario
+331.4  Entorno de trabajo. Diseño del lugar de trabajo. Seguridad ocupacional. Higiene en el trabajo. Accidentes laborales
+331.5  Mercado de trabajo. Empleo
+332  Economía regional. Economía territorial. Economía de la tierra. Economía de la vivienda
+332.1  Economía regional. Economía territorial
+332.2  Economía de la tierra
+332.3  Uso de la tierra
+332.5  Requerimientos de tierra. Planificación a largo plazo del uso de la tierra
+332.6  Valor de la tierra. Valor de las parcelas, sitios, explotaciones. Valor inmobiliario. Productividad. Rentas
+332.7  Comercio de tierras, de bienes inmuebles
+332.8  Economía de la vivienda
+334  Formas de organización y cooperación en la economía
+336  Finanzas
+336.1  Finanzas del sector público. Finanzas gubernamentales en general
+336.2  Ingresos públicos. Impuestos
+336.5  Gasto público. Gasto del Estado
+336.7  Dinero. Sistema monetario. Banca. Bolsas de valores
+338  Situación económica. Política económica. Gestión de la economía. Planificación económica. Producción. Servicios. Precios
+338.1  Situación económica. Ciclo económico. Desarrollo de la estructura económica. Crecimiento
+338.2  Política económica. Control de la economía. Gestión de la economía. Planificación económica
+338.3  Producción
+338.4  Producción y servicios según sectores económicos
+338.48  Turismo
+338.5  Precios. Formación de precios. Costos
+339  Comercio. Comercio. Relaciones económicas internacionales. Economía mundial
+339.1  Cuestiones generales de comercio. Mercado
+339.3  Comercio interior. Comercio interno. Comercio doméstico
+339.5  Comercio exterior. Comercio externo. Comercio internacional
+339.7  Finanzas internacionales
+339.9  Economía internacional en general. Relaciones económicas internacionales. Economía global
+34  Derecho. Jurisprudencia
+340  Derecho en general. Métodos legales y ciencias auxiliares
+340.1  Tipos y formas de derecho
+340.13  Derecho positivo. Norma legal. Derecho promulgado. Derecho estatutario. Ius scriptum. Operación de la norma legal. Reglas de su aplicación
+340.14  Derecho no escrito. Derecho no estatutario. Ius non scriptum. Otras fuentes del derecho
+340.5  Derecho comparado
+340.6  Ciencias legales auxiliares. Psicología forense. Química forense. Medicina forense
+341  Derecho internacional
+341.1/.8  Derecho internacional público. Derecho de gentes
+341.1  Derecho de las organizaciones internacionales
+341.2  Personas y cosas en el derecho internacional
+341.3  Derecho de guerra. Relaciones legales internacionales en la guerra
+341.4  Derecho penal internacional
+341.6  Arbitraje internacional. Adjudicación internacional, jurisdicción
+341.7  Derecho diplomático. Leyes de la diplomacia
+341.8  Derecho consular
+341.9  Derecho internacional privado. Conflicto de leyes
+342  Derecho público. Derecho constitucional. Derecho administrativo
+342.1  Estado. Pueblo. Nación. Poder del Estado
+342.2  Estado. Estructura de los estados
+342.3  Autoridad suprema. Soberanía. Formas de estado. Formas de gobierno
+342.4  Constituciones. Asambleas legislativas. Asambleas nacionales
+342.5  Poder del Estado. Sistema y función de los órganos de gobierno
+342.6  Poder ejecutivo del Estado. Órganos centrales del gobierno del Estado
+342.7  Derechos fundamentales. Derechos humanos. Derechos y deberes del ciudadano
+342.8  Derecho electoral. Votación. Sistemas electorales
+342.9  Derecho administrativo
+343  Derecho penal. Delitos penales
+343.1  Justicia penal. Investigación criminal. Procedimientos penales
+343.2/.7  Derecho penal
+343.2  Derecho penal propio
+343.3/.7  Delitos particulares. Actos punibles específicos
+343.3  Delitos contra el Estado
+343.4  Delitos contra las libertades fundamentales, derechos humanos
+343.5  Delitos contra la fe pública, la moralidad, la familia
+343.6  Delitos contra la persona
+343.8  Castigo. Ejecución de la sentencia. Prevención del delito. Disuasión
+343.9  Criminología. Ciencias penales. Criminalística
+344  Derecho penal especial. Leyes militares, navales y de la fuerza aérea
+346  Derecho económico. Derecho del control gubernamental de la economía
+346.2  Sujetos del derecho económico
+346.3  Responsabilidades económicas. Contratos económicos
+346.5  Regulación del orden y control económico
+346.6  Regulación de precios, tarifas, finanzas, créditos y cuentas
+346.7  Regulación de sectores individuales de la economía
+346.9  Ejecución del derecho económico. Sanciones. Supervisión. Disputas comerciales. Resolución. Protección legal
+347  Derecho civil
+347.1  Generalidades del derecho civil
+347.2  Derecho de propiedad. Derechos reales. Cosas. Bienes muebles
+347.3  Bienes muebles en general. Propiedad personal
+347.4  Compromisos. Responsabilidades contractuales. Bonos. Contratos. Acuerdos
+347.5  Responsabilidades extracontractuales. Agravios (Torts)
+347.6  Derecho de familia. Derecho de sucesiones. Herederos. Sucesores
+347.7  Derecho comercial. Derecho de sociedades
+347.8  Leyes del aire, el espacio y el éter
+347.9  Procedimiento legal. Personal y organización judicial
+348  Derecho eclesiástico. Derecho canónico. Derecho religioso (opcional)
+349  Ramas especiales del derecho. Asuntos legales diversos
+35  Administración pública. Gobierno. Asuntos militares
+351  Actividades particulares de la administración pública
+352/354  Niveles de administración. Administración local, regional, central
+352  Niveles más bajos de administración. Gobierno local. Administración municipal. Autoridades locales
+353  Niveles medios de administración. Gobierno regional, provincial. Autoridades regionales
+353.1  Divisiones primarias de un país. Regiones (en general). Estados en una federación
+353.2  Gobiernos provinciales. Provincias. Departamentos. Condados
+353.5  Divisiones de provincias. Subprefecturas. Arrondissements. Kreise
+353.8  Tipos especiales de administración regional
+353.9  Administración independiente de regiones de un país. Ministerios de regiones
+354  Alto nivel, nivel superior de administración. Gobierno central, nacional
+354.1  Ministerios para asuntos generales
+355/359  Asuntos militares. Arte de la guerra. Ciencia militar. Defensa. Fuerzas armadas
+355  Asuntos militares en general
+355.1  Fuerzas armadas en general. Servicios armados. Vida militar
+355.2  Reclutamiento de fuerzas. Requisición de suministros y recursos. Potencial de guerra. Levas
+355.3  Organización general de las fuerzas armadas
+355.4  Operaciones de guerra en general. Táctica. Estrategia. Teatro de guerra. Historia de las campañas
+355.5  Servicio en, táctica de, fuerzas y unidades particulares. Entrenamiento de tropas y oficiales. Ejercicios tácticos
+355.6  Administración militar
+355.7  Establecimientos militares: organización, funciones
+356/358  Ramas individuales de las fuerzas terrestres y aéreas
+356  Servicio del ejército en general. Infantería. Soldados de a pie
+357  Caballería. Tropas montadas. Tropas motorizadas
+358  Artillería. Ingenieros. Aviación. Varias unidades técnicas y su función
+358.1  Artillería
+358.4  Aviación militar. Cuerpo de vuelo. Fuerza aérea
+359  Fuerzas navales. Flota militar. Marina: personal, organización
+36  Salvaguarda de las necesidades mentales y materiales de la vida
+364  Bienestar social
+364-1  Teorías del bienestar social
+364-2  Principios de asistencia
+364-3  Agencias de bienestar social. Organizaciones de bienestar social
+364-4  Personas como proveedores de asistencia de bienestar social
+364-5  Instalaciones de bienestar social
+364-6  Contribuciones y pagos
+364-7  Operaciones de bienestar social. Esfuerzo de bienestar. Servicios sociales. Provisión de servicios
+364.2  Necesidades humanas básicas. Requisitos para el bienestar
+364.3  Beneficios sociales. Subsidios sociales. Seguro social. Asistencia social
+364.4  Campos de práctica en el trabajo social
+364.6  Problemas de bienestar social
+365  Deseos de alojamiento y su cumplimiento. Salvaguarda del alojamiento
+366  Consumismo
+368  Seguros. Provisión comunal a través del reparto de riesgos
+37  Educación
+37.01/.09  Tabla auxiliar especial para teoría, principios, métodos y organización de la educación
+37.01  Fundamentos de la educación. Teoría, política, etc.
+37.02  Cuestiones generales de didáctica y método
+37.04  Educación en relación con el educando, alumno. Orientación
+37.06  Problemas sociales. Contactos humanos, relaciones
+37.07  Aspectos de gestión de las instituciones educativas
+37.09  Organización de la instrucción
+373  Tipos de escuela que proporcionan educación general
+374  Educación y formación fuera de la escuela. Educación continua
+376  Educación, enseñanza, formación de grupos especiales de personas. Escuelas especiales
+377  Instrucción especializada. Formación profesional, técnica, profesional. Colegios e institutos profesionales. Politécnicos
+378  Educación superior. Universidades. Estudio académico
+379.8  Ocio
+39  Antropología cultural. Etnografía. Costumbres. Maneras. Tradiciones. Estilo de vida
+391  Disfraz. Vestimenta. Traje nacional. Moda. Adorno
+392  Costumbres, modales, uso en la vida privada
+393  Muerte. Tratamiento de cadáveres. Funerales. Ritos funerarios
+394  Vida pública. Fastos. Vida social. Vida del pueblo
+395  Ceremonial social. Etiqueta. Buenos modales. Formas sociales. Rango. Título
+398  Folclore en sentido estricto
